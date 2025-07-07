@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Reseller,Seller,State,Product,Category,Payment_Mode,Order_Value,Delivery_Days,Returned,Return_Reason,Product_Views,Added_to_Cart,Purchased,Rating
+ORD_00001,15-01-2024,CUST_13,Reseller_4,Seller_9,Tamil Nadu,Men's Jeans,Fashion,COD,3667.47,6,FALSE,,80,78,1,3.4
+ORD_00002,17-02-2024,CUST_461,Reseller_4,Seller_10,Delhi,Casual Shirt,Home Decor,COD,3082.73,8,FALSE,,83,65,1,4.9
+ORD_00003,26-06-2024,CUST_142,Reseller_10,Seller_5,Tamil Nadu,Mobile Stand,Home Decor,Prepaid,517.21,9,FALSE,,99,86,1,4.3
+ORD_00004,15-02-2024,CUST_31,Reseller_6,Seller_5,Delhi,Hand Blender,Beauty,COD,452.58,8,FALSE,,34,26,1,4
+ORD_00005,28-01-2024,CUST_112,Reseller_7,Seller_8,Uttar Pradesh,Ceiling Lamp,Fashion,COD,3280.59,3,TRUE,Late Delivery,79,59,1,2.9
+ORD_00006,01-01-2024,CUST_77,Reseller_2,Seller_2,Delhi,Ceiling Lamp,Beauty,COD,3678.59,9,TRUE,Late Delivery,84,64,1,2.9
+ORD_00007,21-04-2024,CUST_395,Reseller_5,Seller_5,Karnataka,Bluetooth Earbuds,Electronics,Prepaid,2937.01,10,FALSE,,63,48,1,2.6
+ORD_00008,23-06-2024,CUST_479,Reseller_8,Seller_9,Delhi,Bluetooth Speaker,Fashion,COD,3492.92,9,TRUE,No Return,46,36,1,4.7
+ORD_00009,14-06-2024,CUST_390,Reseller_3,Seller_1,Karnataka,Yoga Mat,Electronics,COD,4810.49,3,FALSE,,99,90,1,4
+ORD_00010,04-05-2024,CUST_323,Reseller_2,Seller_9,Tamil Nadu,Flower Vase,Home Decor,Prepaid,1599.52,8,FALSE,,89,78,1,4.3
+ORD_00011,13-06-2024,CUST_200,Reseller_5,Seller_4,Delhi,Lipstick Set,Electronics,COD,3640.73,11,FALSE,,9,0,0,2.6
+ORD_00012,27-04-2024,CUST_109,Reseller_15,Seller_9,Delhi,Yoga Mat,Electronics,COD,421.86,2,FALSE,,84,68,1,4.9
+ORD_00013,12-01-2024,CUST_10,Reseller_19,Seller_3,Maharashtra,Wall Shelf,Kitchen,Prepaid,328.86,4,FALSE,,61,42,1,4.6
+ORD_00014,28-01-2024,CUST_88,Reseller_6,Seller_1,Delhi,LED Strip Light,Home Decor,Prepaid,4130.59,3,FALSE,,76,74,1,3
+ORD_00015,24-03-2024,CUST_378,Reseller_20,Seller_10,Maharashtra,Mobile Stand,Electronics,COD,1132.81,7,FALSE,,87,75,1,3
+ORD_00016,11-03-2024,CUST_172,Reseller_5,Seller_9,Karnataka,Mobile Stand,Kitchen,Prepaid,3996.54,2,FALSE,,9,6,1,3
+ORD_00017,06-04-2024,CUST_406,Reseller_12,Seller_3,Uttar Pradesh,Nail Paint Kit,Electronics,COD,1331.68,11,TRUE,Size Issue,81,62,1,3.3
+ORD_00018,26-06-2024,CUST_304,Reseller_16,Seller_1,Delhi,Fruit Basket,Home Decor,COD,1020.15,3,FALSE,,37,24,1,3.8
+ORD_00019,01-06-2024,CUST_90,Reseller_7,Seller_3,Maharashtra,Fruit Basket,Electronics,Prepaid,2686.97,8,FALSE,,79,78,1,3.6
+ORD_00020,02-04-2024,CUST_272,Reseller_3,Seller_10,Karnataka,Smart Watch,Electronics,COD,172.16,5,FALSE,,13,0,0,3.2
+ORD_00021,07-05-2024,CUST_408,Reseller_8,Seller_9,Tamil Nadu,Face Roller,Kitchen,Prepaid,3347.74,6,TRUE,Size Issue,20,5,1,4
+ORD_00022,12-01-2024,CUST_456,Reseller_2,Seller_1,Karnataka,Smart Watch,Home Decor,COD,2258.16,7,FALSE,,98,84,1,2.8
+ORD_00023,28-05-2024,CUST_370,Reseller_6,Seller_9,Maharashtra,Bedsheet Double,Fashion,Prepaid,2502.55,3,TRUE,Damaged,57,39,1,3.2
+ORD_00024,26-02-2024,CUST_212,Reseller_11,Seller_4,Maharashtra,Choker Necklace,Electronics,Prepaid,1731.74,3,FALSE,,26,14,1,3.4
+ORD_00025,27-04-2024,CUST_199,Reseller_16,Seller_10,Delhi,Non-Stick Pan,Electronics,Prepaid,852.97,11,FALSE,,48,44,1,3.6
+ORD_00026,17-04-2024,CUST_57,Reseller_9,Seller_6,Maharashtra,Hair Straightener,Home Decor,COD,305.66,11,TRUE,Damaged,60,46,1,4.5
+ORD_00027,23-01-2024,CUST_296,Reseller_10,Seller_4,Uttar Pradesh,T-shirt Combo,Beauty,COD,4003.64,11,FALSE,,71,64,1,3
+ORD_00028,24-03-2024,CUST_377,Reseller_7,Seller_8,Uttar Pradesh,Men's Jeans,Kitchen,COD,2394.4,2,FALSE,,32,25,1,3.8
+ORD_00029,09-01-2024,CUST_21,Reseller_19,Seller_4,Maharashtra,Raincoat,Kitchen,Prepaid,4506.52,8,FALSE,,61,45,1,4
+ORD_00030,25-02-2024,CUST_355,Reseller_16,Seller_7,Delhi,Raincoat,Kitchen,COD,1316.48,10,FALSE,,94,81,1,2.6
+ORD_00031,07-01-2024,CUST_440,Reseller_8,Seller_5,Delhi,Pressure Cooker,Beauty,COD,3394.82,4,FALSE,,74,56,1,4
+ORD_00032,08-04-2024,CUST_1,Reseller_13,Seller_3,Maharashtra,Wireless Mouse,Electronics,Prepaid,1946.54,9,FALSE,,81,79,1,2.9
+ORD_00033,07-06-2024,CUST_407,Reseller_2,Seller_9,Karnataka,Cosmetic Pouch,Beauty,COD,1458.48,11,FALSE,,27,25,1,2.7
+ORD_00034,29-06-2024,CUST_90,Reseller_12,Seller_9,Delhi,Face Wash,Fashion,COD,1923.12,11,TRUE,Wrong Item,83,66,1,4.9
+ORD_00035,27-02-2024,CUST_386,Reseller_5,Seller_4,Karnataka,Non-Stick Pan,Kitchen,COD,700.75,9,FALSE,,75,69,1,4.9
+ORD_00036,30-04-2024,CUST_257,Reseller_17,Seller_5,Tamil Nadu,Choker Necklace,Beauty,COD,457.34,7,FALSE,,68,65,1,4.5
+ORD_00037,21-01-2024,CUST_453,Reseller_10,Seller_9,Tamil Nadu,Rice Container,Kitchen,Prepaid,4029.53,3,FALSE,,59,57,1,3.3
+ORD_00038,09-06-2024,CUST_448,Reseller_3,Seller_5,Delhi,Bluetooth Speaker,Home Decor,COD,693.32,4,FALSE,,27,11,1,2.7
+ORD_00039,13-05-2024,CUST_33,Reseller_18,Seller_7,Maharashtra,Cotton Kurti,Beauty,COD,2187.63,12,TRUE,Damaged,3,0,0,4.2
+ORD_00040,23-04-2024,CUST_357,Reseller_19,Seller_7,Karnataka,Electric Tandoor,Beauty,Prepaid,3966.1,9,FALSE,,68,51,1,3.6
+ORD_00041,07-02-2024,CUST_148,Reseller_5,Seller_10,Karnataka,Wireless Mouse,Beauty,COD,1411.04,9,FALSE,,99,98,1,2.8
+ORD_00042,11-02-2024,CUST_90,Reseller_6,Seller_8,Uttar Pradesh,Makeup Brushes,Beauty,Prepaid,3602.29,6,FALSE,,91,87,1,3.7
+ORD_00043,29-03-2024,CUST_363,Reseller_11,Seller_1,Uttar Pradesh,LED Strip Light,Fashion,COD,1412.97,4,FALSE,,5,0,0,2.6
+ORD_00044,27-04-2024,CUST_256,Reseller_18,Seller_8,Maharashtra,Nail Paint Kit,Beauty,COD,739.23,2,FALSE,,99,95,1,4.8
+ORD_00045,19-06-2024,CUST_497,Reseller_18,Seller_1,Uttar Pradesh,Choker Necklace,Home Decor,COD,3571.44,9,FALSE,,97,79,1,3.1
+ORD_00046,12-04-2024,CUST_60,Reseller_11,Seller_8,Delhi,Nail Paint Kit,Kitchen,Prepaid,4515.85,4,FALSE,,40,40,1,4.2
+ORD_00047,20-02-2024,CUST_114,Reseller_12,Seller_8,Delhi,Diya Set,Home Decor,COD,3099.53,5,FALSE,,99,91,1,3.3
+ORD_00048,19-06-2024,CUST_310,Reseller_15,Seller_9,Delhi,Cotton Kurti,Fashion,Prepaid,2062.95,9,FALSE,,66,65,1,3.8
+ORD_00049,25-02-2024,CUST_229,Reseller_14,Seller_3,Karnataka,Kitchen Knife Set,Electronics,COD,209.13,7,FALSE,,72,70,1,3.9
+ORD_00050,02-06-2024,CUST_213,Reseller_15,Seller_7,Karnataka,Hair Straightener,Electronics,COD,3680.8,8,FALSE,,18,0,0,3
+ORD_00051,02-01-2024,CUST_388,Reseller_10,Seller_4,Tamil Nadu,Lipstick Set,Home Decor,Prepaid,2697.71,7,TRUE,No Return,49,47,1,4.9
+ORD_00052,21-05-2024,CUST_427,Reseller_6,Seller_7,Uttar Pradesh,Men's Jeans,Beauty,COD,2904.39,4,FALSE,,49,40,1,4.4
+ORD_00053,12-06-2024,CUST_79,Reseller_19,Seller_5,Karnataka,Essential Oils,Fashion,COD,3738.3,5,TRUE,Size Issue,34,25,1,4.8
+ORD_00054,06-05-2024,CUST_62,Reseller_10,Seller_2,Tamil Nadu,Travel Backpack,Electronics,COD,4547.95,12,FALSE,,98,90,1,4.7
+ORD_00055,05-04-2024,CUST_499,Reseller_19,Seller_6,Tamil Nadu,Non-Stick Pan,Kitchen,COD,4361.48,12,FALSE,,89,86,1,4
+ORD_00056,14-01-2024,CUST_70,Reseller_9,Seller_1,Maharashtra,Notebook Combo,Kitchen,COD,858.77,9,FALSE,,46,41,1,4.8
+ORD_00057,25-01-2024,CUST_393,Reseller_12,Seller_7,Delhi,Curtain Set,Beauty,COD,2718.62,3,FALSE,,81,76,1,2.7
+ORD_00058,25-01-2024,CUST_358,Reseller_11,Seller_9,Karnataka,Casual Shirt,Home Decor,Prepaid,3472.09,6,FALSE,,89,78,1,3
+ORD_00059,25-02-2024,CUST_472,Reseller_5,Seller_6,Delhi,Wall Sticker,Kitchen,COD,1514.88,9,FALSE,,21,18,1,2.6
+ORD_00060,16-04-2024,CUST_365,Reseller_7,Seller_4,Uttar Pradesh,Nail Paint Kit,Kitchen,Prepaid,4182.37,10,FALSE,,71,68,1,3.3
+ORD_00061,28-03-2024,CUST_456,Reseller_5,Seller_2,Delhi,Wireless Mouse,Fashion,COD,1661.13,7,TRUE,Late Delivery,77,61,1,3.5
+ORD_00062,18-04-2024,CUST_108,Reseller_4,Seller_1,Maharashtra,Smart Watch,Beauty,COD,3517.08,5,FALSE,,17,15,1,3.2
+ORD_00063,31-01-2024,CUST_304,Reseller_1,Seller_2,Tamil Nadu,Cosmetic Pouch,Fashion,Prepaid,356.21,3,TRUE,No Return,8,0,0,4.6
+ORD_00064,20-06-2024,CUST_462,Reseller_10,Seller_2,Delhi,Hair Dryer,Fashion,Prepaid,3944.5,11,FALSE,,26,21,1,3.4
+ORD_00065,02-03-2024,CUST_400,Reseller_5,Seller_2,Karnataka,Makeup Brushes,Fashion,Prepaid,1837.01,4,FALSE,,94,75,1,3.2
+ORD_00066,02-01-2024,CUST_88,Reseller_4,Seller_2,Uttar Pradesh,Notebook Combo,Kitchen,Prepaid,2714.87,5,FALSE,,97,80,1,3.9
+ORD_00067,07-04-2024,CUST_55,Reseller_17,Seller_4,Tamil Nadu,Hair Straightener,Fashion,COD,3008.5,9,FALSE,,24,13,1,2.9
+ORD_00068,02-04-2024,CUST_267,Reseller_8,Seller_9,Tamil Nadu,Raincoat,Home Decor,COD,4925.37,3,FALSE,,18,3,1,4.5
+ORD_00069,27-02-2024,CUST_377,Reseller_2,Seller_9,Delhi,Rice Container,Beauty,COD,711.25,6,FALSE,,40,26,1,2.7
+ORD_00070,21-06-2024,CUST_189,Reseller_14,Seller_5,Maharashtra,Measuring Cups,Electronics,Prepaid,4489.56,9,FALSE,,23,23,1,5
+ORD_00071,13-02-2024,CUST_356,Reseller_15,Seller_7,Uttar Pradesh,Essential Oils,Fashion,Prepaid,562.28,4,FALSE,,76,73,1,4.4
+ORD_00072,12-03-2024,CUST_218,Reseller_11,Seller_4,Maharashtra,Non-Stick Pan,Beauty,COD,4954.71,3,FALSE,,93,78,1,3
+ORD_00073,26-04-2024,CUST_262,Reseller_9,Seller_10,Tamil Nadu,Face Roller,Kitchen,COD,3383.38,8,FALSE,,36,32,1,2.5
+ORD_00074,22-06-2024,CUST_426,Reseller_16,Seller_5,Tamil Nadu,Bedsheet Double,Fashion,COD,4720.65,2,TRUE,Size Issue,9,0,0,4.5
+ORD_00075,06-05-2024,CUST_339,Reseller_20,Seller_7,Karnataka,Cotton Kurti,Home Decor,COD,3166.54,3,FALSE,,97,81,1,4.3
+ORD_00076,20-04-2024,CUST_488,Reseller_16,Seller_5,Tamil Nadu,Wireless Mouse,Home Decor,COD,2780.82,10,FALSE,,98,97,1,4.3
+ORD_00077,29-06-2024,CUST_441,Reseller_11,Seller_8,Tamil Nadu,Mobile Stand,Electronics,COD,324.51,4,FALSE,,100,91,1,4.4
+ORD_00078,24-06-2024,CUST_252,Reseller_5,Seller_7,Karnataka,T-shirt Combo,Electronics,Prepaid,2514.16,3,FALSE,,85,68,1,2.7
+ORD_00079,22-06-2024,CUST_303,Reseller_16,Seller_8,Uttar Pradesh,Wall Sticker,Kitchen,Prepaid,2607.42,8,FALSE,,49,30,1,3.4
+ORD_00080,09-06-2024,CUST_380,Reseller_2,Seller_6,Delhi,Makeup Brushes,Beauty,COD,771.76,7,FALSE,,75,75,1,2.8
+ORD_00081,20-03-2024,CUST_127,Reseller_14,Seller_2,Karnataka,Face Wash,Electronics,Prepaid,2147.86,2,FALSE,,31,11,1,4.7
+ORD_00082,09-03-2024,CUST_291,Reseller_10,Seller_2,Delhi,Electric Kettle,Fashion,COD,245.6,7,TRUE,Late Delivery,66,53,1,4.1
+ORD_00083,27-03-2024,CUST_52,Reseller_1,Seller_10,Karnataka,Cotton Kurti,Electronics,COD,2042.96,11,TRUE,Late Delivery,89,83,1,3.3
+ORD_00084,24-02-2024,CUST_434,Reseller_6,Seller_6,Uttar Pradesh,Essential Oils,Kitchen,COD,4851.72,5,FALSE,,10,0,0,2.7
+ORD_00085,27-03-2024,CUST_297,Reseller_10,Seller_1,Uttar Pradesh,Toaster,Beauty,COD,1245.55,3,FALSE,,13,0,0,3.3
+ORD_00086,20-04-2024,CUST_155,Reseller_17,Seller_10,Tamil Nadu,Curtain Set,Fashion,COD,1834.48,3,FALSE,,65,56,1,3.3
+ORD_00087,09-06-2024,CUST_281,Reseller_7,Seller_6,Tamil Nadu,Hand Blender,Kitchen,COD,3181.07,9,FALSE,,24,24,1,4.3
+ORD_00088,21-04-2024,CUST_327,Reseller_19,Seller_3,Tamil Nadu,Rice Container,Kitchen,COD,4816.27,9,FALSE,,69,50,1,4.1
+ORD_00089,22-03-2024,CUST_433,Reseller_7,Seller_9,Karnataka,Floor Cleaner,Fashion,COD,1315.81,12,FALSE,,56,43,1,4.7
+ORD_00090,19-02-2024,CUST_123,Reseller_9,Seller_7,Karnataka,Non-Stick Pan,Home Decor,Prepaid,1393.77,11,FALSE,,15,11,1,3.7
+ORD_00091,04-02-2024,CUST_104,Reseller_15,Seller_5,Tamil Nadu,Cotton Kurti,Home Decor,COD,2265.24,12,FALSE,,21,13,1,2.8
+ORD_00092,03-06-2024,CUST_29,Reseller_18,Seller_5,Maharashtra,Cotton Kurti,Beauty,Prepaid,354.83,9,FALSE,,11,1,1,4.3
+ORD_00093,31-01-2024,CUST_293,Reseller_12,Seller_7,Delhi,Yoga Mat,Fashion,COD,4223.08,4,FALSE,,95,79,1,4.4
+ORD_00094,09-04-2024,CUST_161,Reseller_9,Seller_9,Tamil Nadu,Clutch Purse,Kitchen,Prepaid,1304.67,3,FALSE,,43,25,1,3.9
+ORD_00095,05-05-2024,CUST_131,Reseller_7,Seller_7,Maharashtra,Digital Thermometer,Home Decor,COD,1188.43,6,FALSE,,76,75,1,4.4
+ORD_00096,01-05-2024,CUST_480,Reseller_11,Seller_2,Uttar Pradesh,Wall Sticker,Beauty,COD,3461.28,6,FALSE,,19,8,1,3.7
+ORD_00097,05-03-2024,CUST_404,Reseller_1,Seller_5,Uttar Pradesh,Rice Container,Beauty,COD,3736.33,2,FALSE,,86,79,1,3.8
+ORD_00098,18-03-2024,CUST_466,Reseller_12,Seller_5,Delhi,Measuring Cups,Electronics,COD,1296.45,9,FALSE,,51,43,1,3.6
+ORD_00099,05-05-2024,CUST_18,Reseller_7,Seller_5,Maharashtra,Lipstick Set,Home Decor,Prepaid,3212.06,12,FALSE,,36,34,1,2.6
+ORD_00100,24-03-2024,CUST_309,Reseller_14,Seller_6,Delhi,Washing Gloves,Electronics,Prepaid,3537.64,10,TRUE,Late Delivery,94,77,1,2.8
+ORD_00101,22-01-2024,CUST_157,Reseller_6,Seller_1,Tamil Nadu,Wireless Mouse,Fashion,Prepaid,810.05,8,FALSE,,41,23,1,2.6
+ORD_00102,07-03-2024,CUST_448,Reseller_17,Seller_4,Maharashtra,Mobile Stand,Home Decor,Prepaid,3475.9,7,FALSE,,95,91,1,4.1
+ORD_00103,06-01-2024,CUST_484,Reseller_10,Seller_6,Maharashtra,Smart Watch,Kitchen,COD,1932.86,8,FALSE,,74,67,1,3.3
+ORD_00104,08-02-2024,CUST_220,Reseller_8,Seller_10,Delhi,Cotton Kurti,Kitchen,Prepaid,1111.59,4,TRUE,No Return,77,69,1,3.8
+ORD_00105,22-02-2024,CUST_254,Reseller_19,Seller_3,Delhi,Lipstick Set,Beauty,COD,2700.31,9,FALSE,,16,9,1,4.8
+ORD_00106,17-04-2024,CUST_422,Reseller_16,Seller_5,Tamil Nadu,Flower Vase,Beauty,COD,4303.24,11,FALSE,,37,31,1,3.1
+ORD_00107,27-04-2024,CUST_190,Reseller_1,Seller_3,Karnataka,Smart Watch,Electronics,Prepaid,1292.11,9,FALSE,,75,55,1,3.5
+ORD_00108,06-03-2024,CUST_363,Reseller_5,Seller_8,Karnataka,Lipstick Set,Fashion,Prepaid,2078.14,5,FALSE,,55,36,1,4.4
+ORD_00109,12-01-2024,CUST_481,Reseller_2,Seller_9,Delhi,Non-Stick Pan,Fashion,COD,1288.98,7,FALSE,,86,67,1,3.1
+ORD_00110,07-03-2024,CUST_22,Reseller_20,Seller_9,Tamil Nadu,Silk Saree,Beauty,COD,2064.28,7,TRUE,No Return,75,70,1,2.7
+ORD_00111,12-01-2024,CUST_134,Reseller_11,Seller_8,Tamil Nadu,T-shirt Combo,Kitchen,COD,1688.99,10,FALSE,,15,5,1,3.2
+ORD_00112,21-03-2024,CUST_475,Reseller_12,Seller_5,Tamil Nadu,Pressure Cooker,Electronics,COD,4403.14,11,FALSE,,34,18,1,2.9
+ORD_00113,14-01-2024,CUST_28,Reseller_16,Seller_6,Maharashtra,Raincoat,Home Decor,COD,4625.84,12,FALSE,,25,21,1,4.8
+ORD_00114,23-04-2024,CUST_475,Reseller_16,Seller_1,Karnataka,Water Bottle,Home Decor,COD,2415.59,3,FALSE,,64,63,1,4.5
+ORD_00115,13-02-2024,CUST_105,Reseller_15,Seller_8,Tamil Nadu,Makeup Brushes,Kitchen,COD,3640.86,4,TRUE,Size Issue,37,32,1,4.1
+ORD_00116,20-01-2024,CUST_293,Reseller_19,Seller_5,Uttar Pradesh,Digital Thermometer,Kitchen,COD,4990.32,2,FALSE,,24,11,1,4.7
+ORD_00117,09-02-2024,CUST_303,Reseller_11,Seller_2,Delhi,LED Strip Light,Electronics,COD,4909.47,3,FALSE,,14,4,1,4.5
+ORD_00118,24-03-2024,CUST_336,Reseller_16,Seller_8,Tamil Nadu,Cotton Kurti,Fashion,Prepaid,1456.19,12,TRUE,Size Issue,80,66,1,3
+ORD_00119,24-01-2024,CUST_281,Reseller_7,Seller_3,Delhi,Hair Straightener,Kitchen,Prepaid,1522.33,2,FALSE,,78,66,1,4.7
+ORD_00120,16-06-2024,CUST_207,Reseller_8,Seller_3,Tamil Nadu,Bluetooth Speaker,Beauty,COD,4283.88,4,FALSE,,37,17,1,3.8
+ORD_00121,04-04-2024,CUST_184,Reseller_16,Seller_5,Tamil Nadu,Nail Paint Kit,Fashion,Prepaid,4620.24,12,FALSE,,86,83,1,4.5
+ORD_00122,17-02-2024,CUST_416,Reseller_15,Seller_8,Tamil Nadu,Notebook Combo,Home Decor,COD,2880.83,8,TRUE,Late Delivery,48,29,1,4.7
+ORD_00123,14-05-2024,CUST_366,Reseller_2,Seller_2,Uttar Pradesh,Raincoat,Electronics,COD,2398.1,5,FALSE,,20,5,1,3.3
+ORD_00124,04-03-2024,CUST_66,Reseller_10,Seller_2,Tamil Nadu,Travel Backpack,Kitchen,COD,4549.96,9,FALSE,,88,79,1,2.8
+ORD_00125,18-06-2024,CUST_212,Reseller_19,Seller_5,Delhi,Clutch Purse,Electronics,COD,4598.91,10,TRUE,Late Delivery,13,0,0,3.1
+ORD_00126,12-01-2024,CUST_92,Reseller_12,Seller_5,Karnataka,Hair Straightener,Kitchen,COD,3877.94,2,TRUE,Late Delivery,24,12,1,3.6
+ORD_00127,24-02-2024,CUST_136,Reseller_11,Seller_5,Uttar Pradesh,Lipstick Set,Electronics,Prepaid,3823.17,9,FALSE,,44,39,1,4.5
+ORD_00128,26-06-2024,CUST_336,Reseller_9,Seller_10,Delhi,Smart Watch,Fashion,COD,236.89,8,TRUE,Damaged,62,48,1,4.7
+ORD_00129,23-01-2024,CUST_346,Reseller_10,Seller_8,Uttar Pradesh,Bluetooth Speaker,Kitchen,Prepaid,3141.21,12,FALSE,,51,42,1,2.5
+ORD_00130,07-02-2024,CUST_108,Reseller_7,Seller_1,Delhi,Pressure Cooker,Home Decor,Prepaid,3525.76,5,FALSE,,62,42,1,3.8
+ORD_00131,09-02-2024,CUST_12,Reseller_18,Seller_7,Maharashtra,Electric Tandoor,Home Decor,COD,3883.15,4,FALSE,,15,10,1,3.5
+ORD_00132,26-03-2024,CUST_425,Reseller_16,Seller_8,Delhi,Digital Thermometer,Electronics,Prepaid,2988.35,5,FALSE,,51,50,1,3.1
+ORD_00133,04-05-2024,CUST_19,Reseller_14,Seller_7,Tamil Nadu,Silk Saree,Fashion,Prepaid,3039.82,10,FALSE,,63,51,1,2.8
+ORD_00134,14-06-2024,CUST_284,Reseller_16,Seller_10,Maharashtra,Notebook Combo,Kitchen,Prepaid,2712.3,8,FALSE,,9,1,1,3.3
+ORD_00135,29-03-2024,CUST_372,Reseller_16,Seller_2,Uttar Pradesh,Men's Jeans,Electronics,Prepaid,1831.81,8,TRUE,Wrong Item,25,10,1,4.9
+ORD_00136,03-02-2024,CUST_367,Reseller_8,Seller_9,Uttar Pradesh,Ceiling Lamp,Home Decor,Prepaid,1794.89,11,FALSE,,85,71,1,3.3
+ORD_00137,19-06-2024,CUST_354,Reseller_12,Seller_7,Tamil Nadu,Toaster,Electronics,Prepaid,4245.98,11,FALSE,,96,94,1,3.8
+ORD_00138,23-02-2024,CUST_253,Reseller_7,Seller_3,Maharashtra,Washing Gloves,Home Decor,Prepaid,639.38,8,FALSE,,39,32,1,4.3
+ORD_00139,07-06-2024,CUST_173,Reseller_12,Seller_1,Karnataka,Measuring Cups,Fashion,COD,919.24,10,TRUE,Size Issue,56,53,1,3.4
+ORD_00140,08-02-2024,CUST_395,Reseller_8,Seller_9,Tamil Nadu,Water Bottle,Fashion,COD,1800.57,7,FALSE,,72,64,1,4.9
+ORD_00141,05-06-2024,CUST_387,Reseller_4,Seller_10,Delhi,Cosmetic Pouch,Kitchen,Prepaid,2273.46,9,FALSE,,15,12,1,4.9
+ORD_00142,23-04-2024,CUST_81,Reseller_2,Seller_9,Uttar Pradesh,Diya Set,Fashion,COD,3205.14,5,FALSE,,94,85,1,3.1
+ORD_00143,03-03-2024,CUST_225,Reseller_4,Seller_8,Maharashtra,Face Roller,Kitchen,Prepaid,1772.85,4,TRUE,Damaged,54,54,1,3.7
+ORD_00144,15-05-2024,CUST_341,Reseller_17,Seller_5,Maharashtra,Washing Gloves,Beauty,COD,1956.32,8,FALSE,,32,28,1,3.3
+ORD_00145,07-02-2024,CUST_186,Reseller_14,Seller_3,Tamil Nadu,Men's Jeans,Home Decor,Prepaid,4505.62,10,FALSE,,4,0,0,3.2
+ORD_00146,18-06-2024,CUST_202,Reseller_3,Seller_9,Delhi,Fruit Basket,Fashion,COD,2098.01,4,FALSE,,98,97,1,2.6
+ORD_00147,29-03-2024,CUST_448,Reseller_2,Seller_10,Uttar Pradesh,Electric Tandoor,Home Decor,Prepaid,2183.63,12,FALSE,,39,29,1,4
+ORD_00148,23-04-2024,CUST_320,Reseller_20,Seller_9,Maharashtra,Silk Saree,Beauty,Prepaid,2314.02,5,FALSE,,80,60,1,3.8
+ORD_00149,18-05-2024,CUST_379,Reseller_7,Seller_7,Karnataka,Cosmetic Pouch,Beauty,COD,2756.55,8,FALSE,,17,1,1,2.6
+ORD_00150,07-03-2024,CUST_456,Reseller_17,Seller_2,Uttar Pradesh,Toaster,Home Decor,COD,1802.44,12,TRUE,Size Issue,70,52,1,3.2
+ORD_00151,15-06-2024,CUST_182,Reseller_17,Seller_7,Delhi,LED Strip Light,Beauty,Prepaid,4231.68,6,FALSE,,16,15,1,4.8
+ORD_00152,01-06-2024,CUST_458,Reseller_19,Seller_5,Delhi,Mobile Stand,Electronics,COD,4917.31,11,FALSE,,81,64,1,3.1
+ORD_00153,29-05-2024,CUST_54,Reseller_10,Seller_5,Uttar Pradesh,Water Bottle,Beauty,Prepaid,3614.6,10,FALSE,,42,26,1,2.9
+ORD_00154,24-02-2024,CUST_455,Reseller_4,Seller_8,Maharashtra,Flower Vase,Beauty,Prepaid,4167.92,3,TRUE,Late Delivery,17,2,1,3.7
+ORD_00155,18-04-2024,CUST_300,Reseller_17,Seller_6,Tamil Nadu,Ceiling Lamp,Fashion,COD,2666.88,8,FALSE,,64,44,1,5
+ORD_00156,26-06-2024,CUST_442,Reseller_6,Seller_7,Maharashtra,Ceiling Lamp,Electronics,COD,2501.11,9,TRUE,No Return,68,65,1,3.1
+ORD_00157,04-04-2024,CUST_210,Reseller_2,Seller_8,Maharashtra,Handbag,Electronics,Prepaid,1941.26,3,FALSE,,15,12,1,4.2
+ORD_00158,06-02-2024,CUST_249,Reseller_17,Seller_1,Maharashtra,Floor Cleaner,Beauty,COD,1628.88,7,FALSE,,4,0,0,4.4
+ORD_00159,16-04-2024,CUST_179,Reseller_10,Seller_1,Karnataka,Electric Kettle,Electronics,COD,4122.76,9,TRUE,No Return,9,8,1,3.1
+ORD_00160,05-02-2024,CUST_427,Reseller_19,Seller_5,Tamil Nadu,Washing Gloves,Kitchen,Prepaid,3939.54,9,FALSE,,78,74,1,4.3
+ORD_00161,11-04-2024,CUST_210,Reseller_15,Seller_8,Maharashtra,Notebook Combo,Electronics,Prepaid,1727.3,11,FALSE,,50,43,1,3.4
+ORD_00162,23-05-2024,CUST_408,Reseller_15,Seller_1,Karnataka,Face Wash,Kitchen,Prepaid,4349.87,2,FALSE,,99,90,1,4.1
+ORD_00163,08-05-2024,CUST_268,Reseller_3,Seller_9,Maharashtra,Electric Tandoor,Fashion,Prepaid,2777.9,2,FALSE,,25,10,1,4.1
+ORD_00164,23-03-2024,CUST_414,Reseller_6,Seller_9,Delhi,Cotton Kurti,Fashion,COD,1148.15,11,FALSE,,69,50,1,3.8
+ORD_00165,24-01-2024,CUST_163,Reseller_16,Seller_1,Delhi,Bluetooth Speaker,Kitchen,COD,1025.46,2,FALSE,,49,41,1,2.7
+ORD_00166,06-06-2024,CUST_348,Reseller_6,Seller_9,Karnataka,Mobile Stand,Fashion,COD,1389.44,3,TRUE,Late Delivery,22,21,1,4.6
+ORD_00167,14-01-2024,CUST_133,Reseller_2,Seller_1,Karnataka,Choker Necklace,Home Decor,COD,1702.2,8,FALSE,,49,46,1,3.3
+ORD_00168,28-04-2024,CUST_138,Reseller_19,Seller_10,Maharashtra,Flower Vase,Home Decor,COD,3799.09,8,FALSE,,8,0,0,3
+ORD_00169,04-03-2024,CUST_494,Reseller_16,Seller_2,Delhi,Measuring Cups,Electronics,COD,1283.64,2,FALSE,,76,73,1,2.6
+ORD_00170,18-05-2024,CUST_401,Reseller_10,Seller_3,Uttar Pradesh,Face Roller,Kitchen,COD,556.96,12,FALSE,,19,8,1,4
+ORD_00171,12-02-2024,CUST_318,Reseller_14,Seller_9,Uttar Pradesh,T-shirt Combo,Home Decor,COD,154.86,9,FALSE,,38,18,1,4.2
+ORD_00172,13-03-2024,CUST_109,Reseller_9,Seller_8,Uttar Pradesh,Silk Saree,Fashion,COD,3447.99,7,FALSE,,75,59,1,2.5
+ORD_00173,20-04-2024,CUST_372,Reseller_19,Seller_9,Delhi,Bluetooth Earbuds,Home Decor,COD,2067.23,3,FALSE,,72,64,1,3.8
+ORD_00174,23-02-2024,CUST_340,Reseller_11,Seller_9,Karnataka,Handbag,Kitchen,Prepaid,4901.26,9,FALSE,,42,32,1,3.1
+ORD_00175,22-05-2024,CUST_345,Reseller_1,Seller_6,Maharashtra,Wireless Mouse,Kitchen,Prepaid,159.93,9,TRUE,Size Issue,23,10,1,4.1
+ORD_00176,21-06-2024,CUST_457,Reseller_18,Seller_7,Delhi,Cosmetic Pouch,Electronics,Prepaid,3298.12,3,FALSE,,86,72,1,2.9
+ORD_00177,03-01-2024,CUST_480,Reseller_20,Seller_7,Karnataka,Mobile Stand,Beauty,COD,4219.86,2,TRUE,Wrong Item,25,11,1,4.2
+ORD_00178,02-04-2024,CUST_114,Reseller_12,Seller_5,Maharashtra,Water Bottle,Fashion,COD,3125.2,6,FALSE,,30,15,1,3.5
+ORD_00179,08-05-2024,CUST_446,Reseller_20,Seller_8,Maharashtra,Bluetooth Earbuds,Beauty,COD,4923.68,12,FALSE,,36,18,1,4.8
+ORD_00180,07-03-2024,CUST_382,Reseller_7,Seller_9,Uttar Pradesh,Essential Oils,Home Decor,Prepaid,3074.42,4,TRUE,Damaged,9,5,1,2.8
+ORD_00181,26-04-2024,CUST_130,Reseller_9,Seller_9,Maharashtra,Floor Cleaner,Home Decor,Prepaid,262.12,12,FALSE,,88,71,1,3.4
+ORD_00182,12-05-2024,CUST_239,Reseller_11,Seller_1,Tamil Nadu,Silk Saree,Electronics,Prepaid,2123.35,3,FALSE,,64,53,1,2.8
+ORD_00183,07-01-2024,CUST_172,Reseller_2,Seller_4,Karnataka,Face Roller,Fashion,Prepaid,2732.19,7,TRUE,Damaged,11,0,0,4.8
+ORD_00184,20-04-2024,CUST_50,Reseller_3,Seller_7,Maharashtra,Digital Thermometer,Home Decor,COD,1746.74,3,FALSE,,4,0,0,4.7
+ORD_00185,01-03-2024,CUST_421,Reseller_9,Seller_6,Maharashtra,Cotton Kurti,Kitchen,COD,1306.04,7,FALSE,,43,27,1,3.1
+ORD_00186,21-03-2024,CUST_470,Reseller_15,Seller_10,Delhi,Non-Stick Pan,Kitchen,Prepaid,2957.83,3,FALSE,,5,0,0,4.1
+ORD_00187,07-04-2024,CUST_287,Reseller_2,Seller_3,Tamil Nadu,Cosmetic Pouch,Fashion,COD,3112.08,8,TRUE,Size Issue,7,0,0,4.5
+ORD_00188,07-06-2024,CUST_238,Reseller_14,Seller_10,Maharashtra,Bluetooth Speaker,Fashion,Prepaid,3969.25,11,TRUE,Late Delivery,55,36,1,3.9
+ORD_00189,02-02-2024,CUST_304,Reseller_15,Seller_1,Uttar Pradesh,Bedsheet Double,Beauty,COD,1083.53,3,TRUE,Size Issue,25,7,1,3.8
+ORD_00190,02-02-2024,CUST_409,Reseller_12,Seller_5,Tamil Nadu,Travel Backpack,Kitchen,COD,3161.13,4,FALSE,,6,5,1,3.1
+ORD_00191,04-04-2024,CUST_309,Reseller_17,Seller_7,Karnataka,Yoga Mat,Kitchen,COD,4443.33,4,TRUE,Wrong Item,44,35,1,2.7
+ORD_00192,21-02-2024,CUST_217,Reseller_5,Seller_10,Delhi,Silk Saree,Kitchen,COD,4123.04,10,FALSE,,45,39,1,4.7
+ORD_00193,26-03-2024,CUST_170,Reseller_11,Seller_2,Maharashtra,Travel Backpack,Home Decor,Prepaid,3519.69,9,FALSE,,75,57,1,4.8
+ORD_00194,27-02-2024,CUST_472,Reseller_11,Seller_7,Maharashtra,Diya Set,Beauty,COD,4399.11,2,FALSE,,1,0,0,4.1
+ORD_00195,17-02-2024,CUST_193,Reseller_20,Seller_8,Maharashtra,Cosmetic Pouch,Home Decor,COD,3712.74,7,FALSE,,27,15,1,3.3
+ORD_00196,12-01-2024,CUST_324,Reseller_3,Seller_1,Karnataka,Silk Saree,Beauty,COD,708.67,6,FALSE,,75,64,1,3.4
+ORD_00197,20-02-2024,CUST_284,Reseller_10,Seller_4,Maharashtra,Cotton Kurti,Home Decor,COD,1420.69,4,FALSE,,32,27,1,4.3
+ORD_00198,19-03-2024,CUST_57,Reseller_4,Seller_5,Delhi,Cotton Kurti,Home Decor,Prepaid,815.63,12,FALSE,,44,38,1,4.7
+ORD_00199,31-01-2024,CUST_450,Reseller_12,Seller_6,Maharashtra,Wireless Mouse,Home Decor,Prepaid,4888.94,11,FALSE,,92,90,1,4.7
+ORD_00200,06-06-2024,CUST_326,Reseller_7,Seller_4,Uttar Pradesh,Nail Paint Kit,Home Decor,COD,1965.14,11,FALSE,,32,31,1,4.4
+ORD_00201,05-05-2024,CUST_436,Reseller_10,Seller_9,Maharashtra,Electric Kettle,Home Decor,COD,408.31,6,FALSE,,66,48,1,4.1
+ORD_00202,28-04-2024,CUST_192,Reseller_20,Seller_8,Delhi,Handbag,Fashion,COD,2032.36,12,FALSE,,64,48,1,2.7
+ORD_00203,10-01-2024,CUST_327,Reseller_17,Seller_6,Tamil Nadu,Smart Watch,Beauty,Prepaid,2549.74,6,FALSE,,75,55,1,2.9
+ORD_00204,20-05-2024,CUST_479,Reseller_15,Seller_4,Maharashtra,Handbag,Home Decor,COD,1634.1,8,FALSE,,48,40,1,4.7
+ORD_00205,25-04-2024,CUST_319,Reseller_10,Seller_2,Tamil Nadu,Lipstick Set,Home Decor,COD,1266.36,2,FALSE,,44,31,1,4
+ORD_00206,01-04-2024,CUST_136,Reseller_12,Seller_7,Tamil Nadu,Wireless Mouse,Electronics,COD,2004.5,4,FALSE,,83,81,1,2.5
+ORD_00207,21-02-2024,CUST_185,Reseller_17,Seller_9,Uttar Pradesh,Lipstick Set,Beauty,Prepaid,3961.49,5,TRUE,Size Issue,5,0,0,2.8
+ORD_00208,07-03-2024,CUST_310,Reseller_9,Seller_6,Karnataka,Face Wash,Home Decor,Prepaid,3877.14,6,FALSE,,18,1,1,4.2
+ORD_00209,28-02-2024,CUST_390,Reseller_12,Seller_5,Tamil Nadu,Silk Saree,Beauty,Prepaid,4136.03,12,TRUE,No Return,20,8,1,2.5
+ORD_00210,21-03-2024,CUST_237,Reseller_8,Seller_8,Uttar Pradesh,Water Bottle,Home Decor,COD,2830.18,9,FALSE,,44,42,1,2.9
+ORD_00211,07-05-2024,CUST_157,Reseller_7,Seller_7,Tamil Nadu,Flower Vase,Electronics,COD,2858.47,7,TRUE,Damaged,95,95,1,3.9
+ORD_00212,09-01-2024,CUST_301,Reseller_8,Seller_6,Tamil Nadu,Hand Blender,Beauty,COD,3800.24,10,FALSE,,3,0,0,4.2
+ORD_00213,16-05-2024,CUST_105,Reseller_19,Seller_6,Uttar Pradesh,Pressure Cooker,Home Decor,Prepaid,2933.31,8,FALSE,,51,49,1,4.1
+ORD_00214,09-01-2024,CUST_346,Reseller_4,Seller_8,Karnataka,Photo Frame,Home Decor,COD,2339.95,6,TRUE,Size Issue,71,66,1,3.1
+ORD_00215,18-01-2024,CUST_120,Reseller_1,Seller_8,Maharashtra,Cosmetic Pouch,Kitchen,COD,4570.02,8,FALSE,,38,22,1,4.3
+ORD_00216,17-04-2024,CUST_57,Reseller_17,Seller_6,Delhi,Wireless Mouse,Fashion,COD,4319.58,8,FALSE,,17,0,0,3.1
+ORD_00217,30-05-2024,CUST_310,Reseller_7,Seller_7,Maharashtra,Washing Gloves,Fashion,Prepaid,1652.32,12,FALSE,,74,65,1,3.3
+ORD_00218,25-03-2024,CUST_310,Reseller_9,Seller_8,Maharashtra,Flower Vase,Kitchen,COD,842.06,3,FALSE,,32,16,1,4.4
+ORD_00219,10-04-2024,CUST_234,Reseller_15,Seller_8,Uttar Pradesh,Floor Cleaner,Electronics,COD,591.85,12,FALSE,,45,36,1,4.1
+ORD_00220,25-01-2024,CUST_338,Reseller_8,Seller_7,Maharashtra,Diya Set,Home Decor,Prepaid,3706.23,9,FALSE,,24,6,1,4.6
+ORD_00221,06-05-2024,CUST_358,Reseller_6,Seller_4,Karnataka,Bluetooth Speaker,Fashion,Prepaid,2758.03,12,FALSE,,93,87,1,4.1
+ORD_00222,09-05-2024,CUST_85,Reseller_12,Seller_2,Delhi,Men's Jeans,Kitchen,Prepaid,2596.31,7,FALSE,,33,27,1,3.9
+ORD_00223,04-02-2024,CUST_6,Reseller_3,Seller_1,Tamil Nadu,Bluetooth Earbuds,Electronics,COD,3767.89,5,FALSE,,33,30,1,2.7
+ORD_00224,05-01-2024,CUST_431,Reseller_15,Seller_8,Delhi,Choker Necklace,Electronics,COD,3336.56,9,TRUE,Wrong Item,21,16,1,3.4
+ORD_00225,09-02-2024,CUST_6,Reseller_10,Seller_3,Delhi,Casual Shirt,Fashion,COD,2045.62,3,FALSE,,87,79,1,3.2
+ORD_00226,13-06-2024,CUST_429,Reseller_7,Seller_3,Delhi,Ceiling Lamp,Beauty,Prepaid,2731.65,9,FALSE,,82,66,1,3.1
+ORD_00227,02-03-2024,CUST_476,Reseller_10,Seller_7,Tamil Nadu,Hand Blender,Fashion,COD,172.63,8,FALSE,,32,21,1,4.9
+ORD_00228,19-06-2024,CUST_33,Reseller_14,Seller_1,Delhi,Flower Vase,Fashion,Prepaid,1785.02,5,FALSE,,29,26,1,3.5
+ORD_00229,11-04-2024,CUST_320,Reseller_14,Seller_1,Uttar Pradesh,T-shirt Combo,Home Decor,COD,1736.64,10,FALSE,,27,10,1,4.7
+ORD_00230,27-04-2024,CUST_7,Reseller_7,Seller_4,Delhi,Raincoat,Fashion,COD,992.06,8,FALSE,,50,44,1,4.1
+ORD_00231,17-05-2024,CUST_307,Reseller_20,Seller_5,Karnataka,Water Bottle,Fashion,COD,4444.48,8,FALSE,,64,61,1,4.5
+ORD_00232,26-03-2024,CUST_498,Reseller_4,Seller_5,Uttar Pradesh,Floor Cleaner,Home Decor,COD,3209.74,8,FALSE,,99,95,1,3.8
+ORD_00233,08-05-2024,CUST_328,Reseller_3,Seller_8,Karnataka,Smart Watch,Beauty,COD,4573.7,9,FALSE,,95,88,1,3.9
+ORD_00234,21-01-2024,CUST_388,Reseller_1,Seller_4,Uttar Pradesh,Electric Kettle,Fashion,Prepaid,751.67,5,FALSE,,32,13,1,3.7
+ORD_00235,04-02-2024,CUST_485,Reseller_16,Seller_6,Karnataka,Wall Clock,Home Decor,COD,1972.38,12,TRUE,No Return,57,47,1,3
+ORD_00236,03-03-2024,CUST_376,Reseller_17,Seller_1,Tamil Nadu,Curtain Set,Beauty,Prepaid,1549.01,2,FALSE,,43,33,1,4.3
+ORD_00237,05-05-2024,CUST_323,Reseller_8,Seller_1,Maharashtra,Handbag,Kitchen,Prepaid,2000.21,7,FALSE,,1,0,0,3.2
+ORD_00238,09-05-2024,CUST_478,Reseller_5,Seller_1,Maharashtra,Non-Stick Pan,Home Decor,COD,992.33,10,FALSE,,27,20,1,2.6
+ORD_00239,24-04-2024,CUST_156,Reseller_10,Seller_8,Maharashtra,Lipstick Set,Electronics,Prepaid,1337.89,4,FALSE,,37,19,1,4.1
+ORD_00240,20-04-2024,CUST_217,Reseller_16,Seller_5,Delhi,Travel Backpack,Home Decor,Prepaid,1893.97,8,TRUE,Late Delivery,65,46,1,2.9
+ORD_00241,06-03-2024,CUST_79,Reseller_1,Seller_8,Tamil Nadu,Face Roller,Home Decor,COD,553.68,6,FALSE,,71,66,1,4.9
+ORD_00242,09-02-2024,CUST_367,Reseller_15,Seller_5,Karnataka,Photo Frame,Electronics,COD,3089.22,3,FALSE,,61,55,1,4.9
+ORD_00243,19-03-2024,CUST_192,Reseller_17,Seller_1,Karnataka,Flower Vase,Fashion,COD,4639.6,8,FALSE,,50,35,1,4.8
+ORD_00244,10-05-2024,CUST_491,Reseller_14,Seller_2,Delhi,Electric Tandoor,Kitchen,Prepaid,753.72,11,TRUE,Late Delivery,33,22,1,3.4
+ORD_00245,29-06-2024,CUST_472,Reseller_2,Seller_6,Tamil Nadu,Rice Container,Electronics,Prepaid,3717.97,5,FALSE,,47,27,1,2.5
+ORD_00246,04-01-2024,CUST_297,Reseller_9,Seller_3,Uttar Pradesh,Wall Shelf,Fashion,COD,3453.17,6,FALSE,,85,80,1,4.8
+ORD_00247,26-06-2024,CUST_85,Reseller_13,Seller_7,Uttar Pradesh,Mobile Stand,Fashion,Prepaid,539.69,5,FALSE,,55,47,1,3.6
+ORD_00248,09-03-2024,CUST_398,Reseller_13,Seller_9,Uttar Pradesh,Yoga Mat,Kitchen,COD,2146.3,3,TRUE,No Return,45,41,1,4.9
+ORD_00249,14-03-2024,CUST_269,Reseller_10,Seller_7,Delhi,Digital Thermometer,Home Decor,Prepaid,4109.49,2,TRUE,Late Delivery,54,34,1,4.9
+ORD_00250,25-05-2024,CUST_486,Reseller_6,Seller_3,Karnataka,Hair Straightener,Electronics,COD,801.51,9,FALSE,,15,1,1,4.6
+ORD_00251,11-06-2024,CUST_468,Reseller_2,Seller_4,Maharashtra,Handbag,Home Decor,Prepaid,1080.64,8,FALSE,,80,77,1,3.2
+ORD_00252,03-01-2024,CUST_245,Reseller_3,Seller_5,Tamil Nadu,T-shirt Combo,Fashion,COD,461.67,2,FALSE,,63,60,1,3.5
+ORD_00253,04-05-2024,CUST_267,Reseller_19,Seller_1,Delhi,Wall Clock,Beauty,COD,2683.32,2,FALSE,,98,90,1,4.6
+ORD_00254,06-04-2024,CUST_482,Reseller_14,Seller_10,Karnataka,Washing Gloves,Beauty,COD,4467.24,7,FALSE,,47,35,1,3.3
+ORD_00255,03-06-2024,CUST_455,Reseller_11,Seller_6,Delhi,Diya Set,Fashion,COD,4372.13,8,FALSE,,18,18,1,2.9
+ORD_00256,12-06-2024,CUST_339,Reseller_8,Seller_5,Karnataka,Mobile Stand,Kitchen,COD,3478,9,FALSE,,25,25,1,3.9
+ORD_00257,19-04-2024,CUST_314,Reseller_2,Seller_6,Karnataka,Choker Necklace,Fashion,Prepaid,1282.76,9,FALSE,,11,0,0,4.8
+ORD_00258,09-01-2024,CUST_402,Reseller_10,Seller_7,Uttar Pradesh,Washing Gloves,Fashion,COD,844.33,10,FALSE,,92,76,1,4.2
+ORD_00259,02-03-2024,CUST_247,Reseller_10,Seller_2,Uttar Pradesh,Pressure Cooker,Electronics,Prepaid,2413.99,9,FALSE,,85,68,1,3.9
+ORD_00260,26-02-2024,CUST_168,Reseller_3,Seller_3,Delhi,LED Strip Light,Home Decor,COD,3621.46,4,FALSE,,50,42,1,2.7
+ORD_00261,02-06-2024,CUST_447,Reseller_4,Seller_8,Maharashtra,Hair Straightener,Beauty,Prepaid,3222.71,9,TRUE,Wrong Item,29,11,1,4
+ORD_00262,29-01-2024,CUST_60,Reseller_13,Seller_7,Uttar Pradesh,Non-Stick Pan,Beauty,Prepaid,2269.27,5,FALSE,,38,36,1,5
+ORD_00263,20-03-2024,CUST_296,Reseller_7,Seller_10,Delhi,Lipstick Set,Beauty,COD,767.97,7,FALSE,,95,95,1,2.9
+ORD_00264,18-06-2024,CUST_479,Reseller_7,Seller_9,Tamil Nadu,Wall Clock,Kitchen,Prepaid,1700.27,7,FALSE,,17,1,1,3.8
+ORD_00265,23-06-2024,CUST_429,Reseller_4,Seller_4,Tamil Nadu,Casual Shirt,Kitchen,COD,4283.96,7,TRUE,Wrong Item,29,14,1,4.7
+ORD_00266,11-03-2024,CUST_159,Reseller_10,Seller_10,Maharashtra,Wireless Mouse,Home Decor,Prepaid,4268.27,2,FALSE,,65,62,1,4.4
+ORD_00267,27-02-2024,CUST_171,Reseller_7,Seller_8,Tamil Nadu,Rice Container,Kitchen,COD,4837.5,2,FALSE,,20,14,1,4.2
+ORD_00268,18-04-2024,CUST_281,Reseller_16,Seller_3,Tamil Nadu,Cosmetic Pouch,Fashion,COD,4102.81,4,FALSE,,51,41,1,4.3
+ORD_00269,10-04-2024,CUST_100,Reseller_13,Seller_6,Tamil Nadu,Wall Shelf,Electronics,COD,3674.76,6,FALSE,,90,73,1,3.4
+ORD_00270,27-06-2024,CUST_296,Reseller_19,Seller_6,Delhi,Bedsheet Double,Home Decor,Prepaid,3591.5,9,FALSE,,18,4,1,3.2
+ORD_00271,06-04-2024,CUST_53,Reseller_7,Seller_3,Maharashtra,Washing Gloves,Beauty,Prepaid,1098.93,12,TRUE,No Return,87,83,1,4.5
+ORD_00272,21-04-2024,CUST_333,Reseller_4,Seller_1,Karnataka,Raincoat,Home Decor,Prepaid,1021.22,2,TRUE,No Return,44,26,1,4.5
+ORD_00273,26-06-2024,CUST_335,Reseller_2,Seller_4,Delhi,Nail Paint Kit,Electronics,COD,2519.84,11,FALSE,,96,84,1,4.7
+ORD_00274,20-06-2024,CUST_63,Reseller_13,Seller_8,Karnataka,Hand Blender,Fashion,Prepaid,2308.82,2,TRUE,Size Issue,63,43,1,4.8
+ORD_00275,14-06-2024,CUST_93,Reseller_19,Seller_1,Uttar Pradesh,Notebook Combo,Home Decor,Prepaid,2475.57,3,FALSE,,50,35,1,3.8
+ORD_00276,10-04-2024,CUST_417,Reseller_19,Seller_5,Maharashtra,Cosmetic Pouch,Electronics,COD,457.97,10,FALSE,,90,90,1,3.8
+ORD_00277,16-02-2024,CUST_495,Reseller_16,Seller_9,Delhi,Measuring Cups,Kitchen,COD,2985.9,12,TRUE,Damaged,85,82,1,4.5
+ORD_00278,23-05-2024,CUST_335,Reseller_18,Seller_1,Tamil Nadu,Casual Shirt,Home Decor,Prepaid,746.77,4,FALSE,,21,19,1,4.1
+ORD_00279,04-03-2024,CUST_484,Reseller_4,Seller_2,Uttar Pradesh,Hair Dryer,Fashion,COD,4836.44,4,FALSE,,85,85,1,4.3
+ORD_00280,10-05-2024,CUST_181,Reseller_10,Seller_9,Uttar Pradesh,Yoga Mat,Fashion,COD,2948.8,7,FALSE,,78,61,1,4.5
+ORD_00281,31-05-2024,CUST_309,Reseller_8,Seller_1,Delhi,Handbag,Fashion,COD,1603.59,5,FALSE,,71,65,1,4.7
+ORD_00282,22-01-2024,CUST_84,Reseller_20,Seller_3,Tamil Nadu,Makeup Brushes,Beauty,COD,1386.59,8,FALSE,,52,38,1,3.3
+ORD_00283,24-05-2024,CUST_99,Reseller_18,Seller_3,Maharashtra,Hair Dryer,Electronics,COD,3703.47,12,FALSE,,92,81,1,3.4
+ORD_00284,20-01-2024,CUST_494,Reseller_6,Seller_10,Tamil Nadu,Hand Blender,Kitchen,Prepaid,1684.35,8,FALSE,,78,71,1,2.7
+ORD_00285,07-02-2024,CUST_171,Reseller_4,Seller_9,Uttar Pradesh,Curtain Set,Fashion,COD,1747.38,3,FALSE,,100,92,1,3.9
+ORD_00286,19-03-2024,CUST_64,Reseller_4,Seller_1,Tamil Nadu,Water Bottle,Beauty,Prepaid,1227.79,3,FALSE,,23,7,1,2.6
+ORD_00287,22-03-2024,CUST_51,Reseller_17,Seller_2,Karnataka,Electric Kettle,Electronics,Prepaid,4347.18,10,FALSE,,7,2,1,3.7
+ORD_00288,24-06-2024,CUST_66,Reseller_12,Seller_3,Uttar Pradesh,Face Roller,Electronics,COD,4427.8,8,FALSE,,34,34,1,3.9
+ORD_00289,22-06-2024,CUST_363,Reseller_5,Seller_3,Tamil Nadu,Notebook Combo,Home Decor,COD,1446.74,12,FALSE,,100,93,1,3.2
+ORD_00290,28-02-2024,CUST_488,Reseller_6,Seller_8,Tamil Nadu,Casual Shirt,Electronics,Prepaid,4022.57,10,FALSE,,55,39,1,4
+ORD_00291,27-05-2024,CUST_484,Reseller_14,Seller_5,Karnataka,Yoga Mat,Fashion,Prepaid,3228.18,3,FALSE,,12,7,1,2.6
+ORD_00292,02-05-2024,CUST_478,Reseller_18,Seller_5,Tamil Nadu,Wall Clock,Fashion,Prepaid,201.87,8,FALSE,,94,90,1,2.6
+ORD_00293,03-03-2024,CUST_360,Reseller_4,Seller_9,Tamil Nadu,Essential Oils,Kitchen,COD,1072.39,2,FALSE,,69,58,1,4.6
+ORD_00294,04-02-2024,CUST_90,Reseller_2,Seller_10,Uttar Pradesh,Digital Thermometer,Kitchen,COD,967.38,10,FALSE,,10,0,0,3.4
+ORD_00295,31-01-2024,CUST_348,Reseller_14,Seller_1,Tamil Nadu,Notebook Combo,Beauty,COD,1960.43,3,FALSE,,32,15,1,2.8
+ORD_00296,11-05-2024,CUST_473,Reseller_10,Seller_8,Karnataka,Toaster,Beauty,COD,3729.42,11,FALSE,,40,20,1,3.8
+ORD_00297,17-02-2024,CUST_55,Reseller_16,Seller_10,Delhi,Bluetooth Earbuds,Electronics,COD,3135.32,7,FALSE,,1,0,0,4.4
+ORD_00298,02-01-2024,CUST_211,Reseller_4,Seller_1,Tamil Nadu,Bluetooth Speaker,Beauty,COD,561.01,10,FALSE,,16,1,1,3
+ORD_00299,17-06-2024,CUST_138,Reseller_16,Seller_4,Tamil Nadu,Nail Paint Kit,Beauty,COD,1917.8,4,FALSE,,14,0,0,4.1
+ORD_00300,17-04-2024,CUST_21,Reseller_12,Seller_3,Tamil Nadu,Ceiling Lamp,Home Decor,COD,4435.34,5,TRUE,Wrong Item,18,6,1,2.7
+ORD_00301,24-03-2024,CUST_282,Reseller_6,Seller_1,Maharashtra,Digital Thermometer,Beauty,Prepaid,4804.54,6,TRUE,Late Delivery,64,60,1,2.6
+ORD_00302,14-01-2024,CUST_257,Reseller_13,Seller_9,Maharashtra,Face Roller,Electronics,COD,673.22,2,TRUE,Wrong Item,2,0,0,3.8
+ORD_00303,10-05-2024,CUST_127,Reseller_20,Seller_7,Delhi,Wall Shelf,Beauty,COD,1553.91,9,TRUE,Late Delivery,80,76,1,3.9
+ORD_00304,05-06-2024,CUST_362,Reseller_4,Seller_5,Karnataka,Smart Watch,Home Decor,Prepaid,1349.67,8,FALSE,,14,0,0,4.1
+ORD_00305,05-01-2024,CUST_476,Reseller_5,Seller_10,Maharashtra,Smart Watch,Home Decor,COD,2096.22,6,FALSE,,19,6,1,4.3
+ORD_00306,02-05-2024,CUST_114,Reseller_2,Seller_2,Tamil Nadu,Diya Set,Home Decor,COD,1636.26,12,FALSE,,44,31,1,4.9
+ORD_00307,16-02-2024,CUST_127,Reseller_2,Seller_7,Karnataka,Wall Clock,Kitchen,COD,1913.34,7,FALSE,,41,40,1,3.8
+ORD_00308,26-03-2024,CUST_130,Reseller_11,Seller_1,Maharashtra,Bluetooth Earbuds,Fashion,COD,1508.77,11,TRUE,Damaged,63,52,1,3.3
+ORD_00309,15-05-2024,CUST_186,Reseller_1,Seller_2,Uttar Pradesh,Yoga Mat,Fashion,Prepaid,781.99,7,FALSE,,96,78,1,4.5
+ORD_00310,16-06-2024,CUST_62,Reseller_9,Seller_4,Maharashtra,Casual Shirt,Beauty,COD,573.07,3,TRUE,No Return,6,0,0,3.2
+ORD_00311,09-02-2024,CUST_390,Reseller_4,Seller_8,Delhi,Flower Vase,Home Decor,Prepaid,3152.2,6,FALSE,,26,9,1,3.6
+ORD_00312,10-06-2024,CUST_459,Reseller_14,Seller_4,Uttar Pradesh,Bluetooth Earbuds,Home Decor,Prepaid,4474.2,10,FALSE,,47,33,1,2.7
+ORD_00313,27-06-2024,CUST_86,Reseller_3,Seller_7,Tamil Nadu,Rice Container,Fashion,COD,4666.96,10,FALSE,,77,69,1,2.6
+ORD_00314,12-02-2024,CUST_273,Reseller_19,Seller_1,Delhi,Pressure Cooker,Beauty,Prepaid,3514.95,8,FALSE,,66,64,1,4.9
+ORD_00315,11-05-2024,CUST_112,Reseller_18,Seller_7,Tamil Nadu,Ceiling Lamp,Kitchen,COD,1466.75,4,TRUE,No Return,76,76,1,4.6
+ORD_00316,16-05-2024,CUST_88,Reseller_9,Seller_9,Karnataka,Wireless Mouse,Kitchen,Prepaid,1587.36,6,FALSE,,29,28,1,4.2
+ORD_00317,30-01-2024,CUST_128,Reseller_5,Seller_1,Karnataka,LED Strip Light,Beauty,Prepaid,1461.61,2,FALSE,,27,10,1,3.5
+ORD_00318,16-03-2024,CUST_69,Reseller_12,Seller_10,Karnataka,Silk Saree,Beauty,COD,3571.49,10,FALSE,,53,34,1,2.9
+ORD_00319,28-01-2024,CUST_276,Reseller_12,Seller_1,Maharashtra,Choker Necklace,Fashion,Prepaid,1506.5,6,FALSE,,85,67,1,2.9
+ORD_00320,09-02-2024,CUST_298,Reseller_20,Seller_5,Uttar Pradesh,Hair Straightener,Electronics,COD,2294.6,7,FALSE,,81,69,1,3.1
+ORD_00321,25-05-2024,CUST_418,Reseller_12,Seller_7,Maharashtra,Ceiling Lamp,Home Decor,Prepaid,604.4,4,FALSE,,23,17,1,3.9
+ORD_00322,19-01-2024,CUST_97,Reseller_1,Seller_5,Karnataka,Essential Oils,Home Decor,COD,1012.01,8,FALSE,,9,5,1,4.3
+ORD_00323,29-01-2024,CUST_194,Reseller_13,Seller_8,Delhi,Raincoat,Home Decor,Prepaid,815.86,2,FALSE,,50,50,1,4.2
+ORD_00324,27-03-2024,CUST_491,Reseller_8,Seller_3,Delhi,Silk Saree,Fashion,COD,4702.2,11,TRUE,Size Issue,14,0,0,3.2
+ORD_00325,15-01-2024,CUST_246,Reseller_5,Seller_4,Tamil Nadu,Rice Container,Fashion,Prepaid,4478.09,4,FALSE,,20,13,1,4.9
+ORD_00326,07-01-2024,CUST_73,Reseller_4,Seller_9,Delhi,Wall Sticker,Beauty,Prepaid,648.65,6,TRUE,Late Delivery,1,0,0,4.3
+ORD_00327,05-05-2024,CUST_453,Reseller_5,Seller_7,Karnataka,Water Bottle,Electronics,Prepaid,1245.54,12,FALSE,,92,89,1,3.9
+ORD_00328,03-06-2024,CUST_474,Reseller_4,Seller_4,Karnataka,T-shirt Combo,Fashion,COD,3136.13,3,FALSE,,11,10,1,4
+ORD_00329,14-03-2024,CUST_352,Reseller_17,Seller_7,Karnataka,Nail Paint Kit,Home Decor,COD,3445.25,4,FALSE,,39,20,1,3.5
+ORD_00330,07-02-2024,CUST_442,Reseller_16,Seller_5,Karnataka,Makeup Brushes,Fashion,Prepaid,4081.99,3,FALSE,,20,0,0,3.1
+ORD_00331,23-03-2024,CUST_143,Reseller_15,Seller_7,Tamil Nadu,Choker Necklace,Home Decor,Prepaid,698.85,8,FALSE,,19,17,1,3.4
+ORD_00332,16-06-2024,CUST_326,Reseller_12,Seller_7,Karnataka,Pressure Cooker,Home Decor,COD,2484.25,8,FALSE,,43,39,1,4.4
+ORD_00333,17-04-2024,CUST_197,Reseller_18,Seller_7,Tamil Nadu,LED Strip Light,Electronics,COD,2539.12,10,FALSE,,11,0,0,2.5
+ORD_00334,16-01-2024,CUST_243,Reseller_3,Seller_4,Maharashtra,Clutch Purse,Kitchen,COD,1135.91,2,FALSE,,18,15,1,2.8
+ORD_00335,05-02-2024,CUST_424,Reseller_10,Seller_3,Tamil Nadu,Makeup Brushes,Beauty,COD,4288.56,8,FALSE,,29,28,1,2.6
+ORD_00336,08-01-2024,CUST_245,Reseller_1,Seller_7,Tamil Nadu,Mobile Stand,Home Decor,COD,3551.8,12,FALSE,,77,72,1,2.6
+ORD_00337,15-05-2024,CUST_241,Reseller_3,Seller_3,Maharashtra,Nail Paint Kit,Beauty,COD,2910.54,8,TRUE,Damaged,96,92,1,4.6
+ORD_00338,09-01-2024,CUST_80,Reseller_14,Seller_8,Karnataka,Cosmetic Pouch,Beauty,COD,3277.51,2,FALSE,,8,0,0,4.3
+ORD_00339,08-05-2024,CUST_425,Reseller_6,Seller_9,Delhi,Casual Shirt,Home Decor,COD,2204.56,9,FALSE,,34,16,1,3.7
+ORD_00340,26-02-2024,CUST_206,Reseller_6,Seller_7,Karnataka,Yoga Mat,Home Decor,Prepaid,2679.28,4,FALSE,,80,79,1,2.7
+ORD_00341,14-01-2024,CUST_208,Reseller_20,Seller_9,Delhi,Bluetooth Speaker,Home Decor,Prepaid,2421.92,7,FALSE,,49,44,1,3.7
+ORD_00342,17-01-2024,CUST_84,Reseller_9,Seller_4,Delhi,Kitchen Knife Set,Electronics,COD,1909.1,7,TRUE,Wrong Item,70,67,1,3.7
+ORD_00343,12-01-2024,CUST_44,Reseller_10,Seller_1,Maharashtra,Handbag,Kitchen,COD,3246.19,2,FALSE,,73,55,1,2.9
+ORD_00344,19-02-2024,CUST_491,Reseller_2,Seller_1,Karnataka,Floor Cleaner,Electronics,COD,1646.73,7,FALSE,,51,35,1,3.6
+ORD_00345,02-05-2024,CUST_13,Reseller_5,Seller_6,Delhi,Choker Necklace,Electronics,COD,4498.08,10,TRUE,Damaged,76,64,1,3.5
+ORD_00346,06-02-2024,CUST_453,Reseller_6,Seller_5,Maharashtra,Electric Kettle,Fashion,Prepaid,531.95,12,TRUE,Damaged,28,8,1,4
+ORD_00347,02-04-2024,CUST_68,Reseller_17,Seller_9,Uttar Pradesh,Fruit Basket,Home Decor,Prepaid,4661.6,7,FALSE,,44,35,1,4.1
+ORD_00348,25-01-2024,CUST_291,Reseller_13,Seller_1,Maharashtra,Diya Set,Electronics,COD,3110.38,3,FALSE,,81,66,1,2.6
+ORD_00349,27-05-2024,CUST_83,Reseller_18,Seller_5,Delhi,Silk Saree,Home Decor,COD,2355.82,4,FALSE,,9,1,1,3.4
+ORD_00350,05-02-2024,CUST_391,Reseller_3,Seller_2,Maharashtra,Kitchen Knife Set,Beauty,Prepaid,2384.59,9,FALSE,,57,37,1,4.1
+ORD_00351,11-05-2024,CUST_67,Reseller_2,Seller_8,Karnataka,Mobile Stand,Kitchen,Prepaid,2094.56,11,FALSE,,57,46,1,3.8
+ORD_00352,03-01-2024,CUST_380,Reseller_3,Seller_6,Tamil Nadu,Diya Set,Beauty,COD,1424.71,12,TRUE,Size Issue,32,15,1,4.6
+ORD_00353,30-03-2024,CUST_237,Reseller_13,Seller_5,Maharashtra,Nail Paint Kit,Fashion,COD,4291.07,5,FALSE,,86,84,1,4.1
+ORD_00354,17-01-2024,CUST_103,Reseller_15,Seller_9,Delhi,Wireless Mouse,Electronics,COD,3699.12,8,FALSE,,52,42,1,2.9
+ORD_00355,07-02-2024,CUST_280,Reseller_16,Seller_10,Maharashtra,Choker Necklace,Beauty,Prepaid,2459.66,6,FALSE,,20,5,1,2.7
+ORD_00356,24-02-2024,CUST_186,Reseller_19,Seller_6,Delhi,Travel Backpack,Home Decor,Prepaid,3904.9,2,FALSE,,56,41,1,4.1
+ORD_00357,17-04-2024,CUST_42,Reseller_14,Seller_1,Karnataka,Wall Clock,Home Decor,COD,1004.11,4,TRUE,Late Delivery,39,25,1,2.6
+ORD_00358,30-03-2024,CUST_153,Reseller_6,Seller_5,Delhi,Clutch Purse,Home Decor,COD,4522.96,7,FALSE,,22,16,1,4
+ORD_00359,20-02-2024,CUST_6,Reseller_18,Seller_8,Maharashtra,Men's Jeans,Electronics,Prepaid,2268.4,11,FALSE,,72,53,1,4.9
+ORD_00360,22-03-2024,CUST_479,Reseller_5,Seller_10,Karnataka,Non-Stick Pan,Kitchen,Prepaid,4143.99,7,TRUE,Late Delivery,19,4,1,3.9
+ORD_00361,10-01-2024,CUST_328,Reseller_17,Seller_5,Delhi,Mobile Stand,Electronics,Prepaid,4725.12,4,FALSE,,75,72,1,3.5
+ORD_00362,04-01-2024,CUST_498,Reseller_18,Seller_7,Maharashtra,Handbag,Home Decor,Prepaid,1198.27,5,FALSE,,87,69,1,4.1
+ORD_00363,31-03-2024,CUST_234,Reseller_10,Seller_1,Karnataka,Kitchen Knife Set,Beauty,COD,4358.63,9,FALSE,,53,40,1,3.6
+ORD_00364,18-05-2024,CUST_284,Reseller_17,Seller_7,Karnataka,Makeup Brushes,Kitchen,COD,1002.7,8,FALSE,,77,72,1,3.9
+ORD_00365,15-06-2024,CUST_413,Reseller_14,Seller_5,Karnataka,Raincoat,Electronics,Prepaid,4698.82,3,FALSE,,14,12,1,4.9
+ORD_00366,19-06-2024,CUST_258,Reseller_4,Seller_7,Tamil Nadu,Cotton Kurti,Kitchen,Prepaid,3175.55,10,TRUE,Late Delivery,75,74,1,3.5
+ORD_00367,14-06-2024,CUST_180,Reseller_8,Seller_4,Tamil Nadu,Toaster,Electronics,COD,705.33,9,FALSE,,60,47,1,4.9
+ORD_00368,02-01-2024,CUST_430,Reseller_12,Seller_1,Maharashtra,Rice Container,Electronics,COD,1447.9,12,FALSE,,54,47,1,4.8
+ORD_00369,13-02-2024,CUST_308,Reseller_1,Seller_1,Maharashtra,Men's Jeans,Fashion,Prepaid,4227.73,10,FALSE,,41,31,1,3
+ORD_00370,11-06-2024,CUST_296,Reseller_18,Seller_4,Tamil Nadu,Floor Cleaner,Electronics,COD,3275.51,2,FALSE,,55,51,1,2.7
+ORD_00371,09-06-2024,CUST_324,Reseller_11,Seller_7,Uttar Pradesh,Photo Frame,Home Decor,COD,1270.2,4,FALSE,,74,62,1,2.8
+ORD_00372,07-06-2024,CUST_304,Reseller_11,Seller_3,Maharashtra,Hair Dryer,Kitchen,COD,274.36,2,FALSE,,20,20,1,2.5
+ORD_00373,02-03-2024,CUST_399,Reseller_19,Seller_2,Tamil Nadu,Rice Container,Kitchen,COD,3710.72,9,FALSE,,46,41,1,2.7
+ORD_00374,22-01-2024,CUST_338,Reseller_7,Seller_5,Uttar Pradesh,Electric Tandoor,Home Decor,Prepaid,3672.62,8,FALSE,,7,0,0,4.2
+ORD_00375,20-01-2024,CUST_459,Reseller_4,Seller_10,Delhi,Nail Paint Kit,Fashion,COD,3040.09,3,TRUE,Wrong Item,24,22,1,2.7
+ORD_00376,24-06-2024,CUST_321,Reseller_13,Seller_4,Delhi,Essential Oils,Beauty,COD,256.49,3,FALSE,,10,4,1,3.3
+ORD_00377,31-01-2024,CUST_324,Reseller_15,Seller_6,Maharashtra,Men's Jeans,Electronics,COD,199.18,4,FALSE,,78,77,1,4.6
+ORD_00378,17-05-2024,CUST_99,Reseller_20,Seller_8,Uttar Pradesh,Face Wash,Beauty,COD,918.18,6,FALSE,,78,78,1,2.6
+ORD_00379,09-03-2024,CUST_113,Reseller_5,Seller_9,Maharashtra,Cotton Kurti,Kitchen,Prepaid,706.72,5,TRUE,Damaged,11,7,1,4.5
+ORD_00380,12-04-2024,CUST_254,Reseller_3,Seller_4,Karnataka,Curtain Set,Electronics,Prepaid,3311.83,9,FALSE,,56,40,1,3.2
+ORD_00381,20-04-2024,CUST_407,Reseller_7,Seller_3,Karnataka,Flower Vase,Beauty,Prepaid,649.04,11,FALSE,,27,12,1,2.8
+ORD_00382,17-01-2024,CUST_181,Reseller_9,Seller_10,Karnataka,Ceiling Lamp,Electronics,Prepaid,3095.38,8,FALSE,,48,28,1,4.2
+ORD_00383,08-01-2024,CUST_272,Reseller_17,Seller_1,Karnataka,Ceiling Lamp,Home Decor,COD,1573.35,12,FALSE,,46,34,1,4.1
+ORD_00384,01-02-2024,CUST_75,Reseller_14,Seller_6,Maharashtra,Mobile Stand,Home Decor,COD,502.31,12,FALSE,,100,90,1,4.7
+ORD_00385,24-02-2024,CUST_198,Reseller_11,Seller_1,Maharashtra,Silk Saree,Beauty,COD,4006.91,5,FALSE,,37,18,1,4.3
+ORD_00386,22-03-2024,CUST_350,Reseller_18,Seller_2,Karnataka,Clutch Purse,Home Decor,Prepaid,4739.41,12,TRUE,Late Delivery,97,84,1,4.5
+ORD_00387,31-05-2024,CUST_88,Reseller_2,Seller_4,Tamil Nadu,Choker Necklace,Home Decor,COD,4952.76,8,TRUE,Late Delivery,77,67,1,3.2
+ORD_00388,03-02-2024,CUST_467,Reseller_1,Seller_10,Karnataka,Photo Frame,Home Decor,COD,3949.03,11,FALSE,,60,51,1,2.9
+ORD_00389,22-03-2024,CUST_371,Reseller_17,Seller_9,Delhi,Bluetooth Speaker,Fashion,COD,228.92,9,TRUE,Late Delivery,39,31,1,4.4
+ORD_00390,13-06-2024,CUST_357,Reseller_3,Seller_7,Uttar Pradesh,Face Roller,Beauty,Prepaid,2545.02,2,FALSE,,59,44,1,4.5
+ORD_00391,27-02-2024,CUST_442,Reseller_4,Seller_10,Delhi,Mobile Stand,Beauty,COD,4153.46,4,TRUE,Wrong Item,89,76,1,5
+ORD_00392,13-01-2024,CUST_402,Reseller_12,Seller_4,Uttar Pradesh,T-shirt Combo,Fashion,Prepaid,4680.44,2,FALSE,,6,3,1,3.5
+ORD_00393,02-02-2024,CUST_299,Reseller_11,Seller_5,Uttar Pradesh,Yoga Mat,Fashion,Prepaid,1990.85,4,FALSE,,59,56,1,3.4
+ORD_00394,23-03-2024,CUST_339,Reseller_14,Seller_10,Tamil Nadu,Choker Necklace,Home Decor,Prepaid,2680.55,5,FALSE,,63,55,1,4.4
+ORD_00395,22-02-2024,CUST_447,Reseller_3,Seller_4,Karnataka,Fruit Basket,Electronics,Prepaid,3600.2,7,FALSE,,32,12,1,3.4
+ORD_00396,28-03-2024,CUST_97,Reseller_16,Seller_2,Delhi,Cosmetic Pouch,Fashion,COD,3401.92,9,FALSE,,63,60,1,4.8
+ORD_00397,03-02-2024,CUST_435,Reseller_17,Seller_9,Karnataka,Handbag,Kitchen,Prepaid,1662.35,9,FALSE,,65,62,1,4.6
+ORD_00398,27-05-2024,CUST_85,Reseller_15,Seller_7,Uttar Pradesh,Water Bottle,Beauty,COD,3933.1,5,TRUE,Late Delivery,88,79,1,3.6
+ORD_00399,25-04-2024,CUST_15,Reseller_15,Seller_3,Delhi,Electric Tandoor,Fashion,Prepaid,1316.73,9,FALSE,,61,45,1,4.4
+ORD_00400,22-04-2024,CUST_261,Reseller_18,Seller_2,Delhi,Makeup Brushes,Beauty,COD,1178.52,8,FALSE,,43,42,1,4.4
+ORD_00401,15-05-2024,CUST_91,Reseller_2,Seller_2,Tamil Nadu,Curtain Set,Beauty,Prepaid,2199.55,6,FALSE,,77,69,1,2.8
+ORD_00402,09-03-2024,CUST_28,Reseller_14,Seller_9,Delhi,Casual Shirt,Electronics,Prepaid,3284.77,3,FALSE,,5,0,0,4.8
+ORD_00403,06-05-2024,CUST_52,Reseller_4,Seller_9,Karnataka,LED Strip Light,Fashion,COD,3158.07,8,FALSE,,29,21,1,3.8
+ORD_00404,02-05-2024,CUST_465,Reseller_12,Seller_4,Karnataka,Handbag,Home Decor,Prepaid,1546.7,2,TRUE,No Return,90,71,1,4.6
+ORD_00405,19-04-2024,CUST_73,Reseller_6,Seller_4,Karnataka,Digital Thermometer,Beauty,Prepaid,958.23,7,FALSE,,2,0,0,3.3
+ORD_00406,01-01-2024,CUST_497,Reseller_9,Seller_3,Delhi,Face Wash,Fashion,COD,3837.26,2,FALSE,,61,43,1,4.7
+ORD_00407,07-02-2024,CUST_269,Reseller_4,Seller_8,Delhi,Essential Oils,Home Decor,Prepaid,2901.24,6,FALSE,,65,60,1,3.5
+ORD_00408,27-04-2024,CUST_250,Reseller_10,Seller_2,Karnataka,Fruit Basket,Fashion,COD,3713.85,10,FALSE,,33,22,1,2.5
+ORD_00409,12-06-2024,CUST_139,Reseller_11,Seller_5,Uttar Pradesh,Silk Saree,Beauty,Prepaid,4306.24,11,FALSE,,88,72,1,4.8
+ORD_00410,22-02-2024,CUST_499,Reseller_8,Seller_7,Maharashtra,Cotton Kurti,Home Decor,COD,299.89,11,FALSE,,56,45,1,2.7
+ORD_00411,14-02-2024,CUST_468,Reseller_13,Seller_4,Delhi,Digital Thermometer,Fashion,Prepaid,4404.15,12,FALSE,,58,42,1,3.3
+ORD_00412,05-06-2024,CUST_297,Reseller_13,Seller_6,Uttar Pradesh,Hair Dryer,Beauty,COD,4970.63,6,FALSE,,67,57,1,4.9
+ORD_00413,13-05-2024,CUST_76,Reseller_19,Seller_8,Karnataka,Mobile Stand,Electronics,COD,4851.93,9,FALSE,,60,56,1,4.9
+ORD_00414,01-02-2024,CUST_112,Reseller_6,Seller_9,Karnataka,Toaster,Kitchen,COD,463.39,6,TRUE,Size Issue,37,19,1,3.9
+ORD_00415,19-06-2024,CUST_180,Reseller_1,Seller_5,Tamil Nadu,Wall Clock,Electronics,COD,4195.43,2,FALSE,,37,21,1,4.1
+ORD_00416,09-01-2024,CUST_42,Reseller_3,Seller_3,Karnataka,Fruit Basket,Kitchen,COD,3705.31,8,FALSE,,38,31,1,3.6
+ORD_00417,24-05-2024,CUST_306,Reseller_13,Seller_4,Tamil Nadu,Washing Gloves,Beauty,COD,4535.19,6,FALSE,,40,35,1,3.2
+ORD_00418,09-06-2024,CUST_44,Reseller_5,Seller_10,Maharashtra,Raincoat,Beauty,COD,2169.11,5,FALSE,,39,21,1,3.3
+ORD_00419,29-04-2024,CUST_351,Reseller_13,Seller_3,Tamil Nadu,Wireless Mouse,Kitchen,COD,2703.87,7,FALSE,,92,81,1,4.2
+ORD_00420,06-06-2024,CUST_216,Reseller_14,Seller_8,Tamil Nadu,Makeup Brushes,Electronics,COD,4575.91,2,FALSE,,12,8,1,4.4
+ORD_00421,02-02-2024,CUST_28,Reseller_17,Seller_10,Karnataka,Yoga Mat,Home Decor,COD,2784.86,11,FALSE,,97,85,1,4.5
+ORD_00422,01-06-2024,CUST_333,Reseller_17,Seller_8,Tamil Nadu,Bluetooth Speaker,Fashion,Prepaid,560.6,6,FALSE,,14,4,1,4.5
+ORD_00423,28-06-2024,CUST_379,Reseller_16,Seller_10,Karnataka,Bedsheet Double,Beauty,Prepaid,739,11,FALSE,,92,91,1,2.7
+ORD_00424,02-01-2024,CUST_155,Reseller_18,Seller_3,Tamil Nadu,Handbag,Kitchen,COD,4491,12,FALSE,,81,72,1,3.7
+ORD_00425,01-05-2024,CUST_127,Reseller_4,Seller_4,Delhi,Essential Oils,Kitchen,COD,3078.38,3,FALSE,,27,24,1,2.6
+ORD_00426,07-03-2024,CUST_420,Reseller_13,Seller_8,Delhi,Cotton Kurti,Kitchen,Prepaid,1604.63,9,FALSE,,31,14,1,3.9
+ORD_00427,10-05-2024,CUST_337,Reseller_4,Seller_10,Tamil Nadu,Diya Set,Electronics,COD,255.04,4,FALSE,,31,26,1,3.6
+ORD_00428,08-04-2024,CUST_342,Reseller_16,Seller_4,Tamil Nadu,Digital Thermometer,Kitchen,COD,3387.55,11,FALSE,,36,24,1,4.7
+ORD_00429,09-01-2024,CUST_6,Reseller_14,Seller_8,Tamil Nadu,Cosmetic Pouch,Fashion,COD,1524.6,3,FALSE,,75,66,1,3.4
+ORD_00430,08-05-2024,CUST_82,Reseller_2,Seller_8,Karnataka,Electric Tandoor,Kitchen,Prepaid,2419.35,9,FALSE,,46,30,1,2.8
+ORD_00431,05-02-2024,CUST_289,Reseller_13,Seller_9,Uttar Pradesh,Handbag,Beauty,COD,3331.21,7,FALSE,,44,30,1,2.9
+ORD_00432,07-03-2024,CUST_363,Reseller_3,Seller_7,Tamil Nadu,Curtain Set,Beauty,COD,2438,12,FALSE,,65,49,1,4.4
+ORD_00433,07-05-2024,CUST_119,Reseller_19,Seller_10,Karnataka,Pressure Cooker,Beauty,COD,4174.95,3,TRUE,Damaged,13,10,1,4
+ORD_00434,05-06-2024,CUST_216,Reseller_8,Seller_6,Maharashtra,Wall Shelf,Electronics,COD,4421.66,8,FALSE,,9,8,1,2.8
+ORD_00435,06-04-2024,CUST_165,Reseller_3,Seller_1,Tamil Nadu,Hair Dryer,Fashion,Prepaid,3091.69,2,FALSE,,14,0,0,2.7
+ORD_00436,15-05-2024,CUST_380,Reseller_7,Seller_9,Maharashtra,Pressure Cooker,Kitchen,COD,2271.95,6,FALSE,,21,8,1,4.3
+ORD_00437,19-01-2024,CUST_209,Reseller_1,Seller_10,Delhi,Flower Vase,Fashion,COD,4078.54,2,FALSE,,73,56,1,2.7
+ORD_00438,05-02-2024,CUST_183,Reseller_16,Seller_9,Maharashtra,Face Wash,Home Decor,Prepaid,2916.29,9,FALSE,,80,63,1,4.6
+ORD_00439,14-01-2024,CUST_61,Reseller_13,Seller_7,Delhi,Non-Stick Pan,Electronics,COD,766.88,10,FALSE,,64,57,1,4.3
+ORD_00440,14-03-2024,CUST_184,Reseller_1,Seller_6,Maharashtra,Casual Shirt,Kitchen,Prepaid,1556,6,FALSE,,9,4,1,2.7
+ORD_00441,29-05-2024,CUST_280,Reseller_8,Seller_10,Uttar Pradesh,Non-Stick Pan,Kitchen,Prepaid,2575.23,8,FALSE,,90,87,1,2.7
+ORD_00442,18-06-2024,CUST_419,Reseller_2,Seller_1,Karnataka,Washing Gloves,Beauty,COD,1122.48,2,TRUE,No Return,94,84,1,5
+ORD_00443,05-06-2024,CUST_37,Reseller_3,Seller_8,Uttar Pradesh,Wall Clock,Home Decor,Prepaid,3559.99,2,FALSE,,54,35,1,3.4
+ORD_00444,02-05-2024,CUST_333,Reseller_5,Seller_8,Karnataka,Lipstick Set,Kitchen,Prepaid,654.7,9,FALSE,,45,32,1,3.4
+ORD_00445,21-05-2024,CUST_195,Reseller_2,Seller_1,Delhi,Yoga Mat,Home Decor,Prepaid,4085.11,10,FALSE,,88,88,1,4.5
+ORD_00446,31-03-2024,CUST_460,Reseller_13,Seller_7,Maharashtra,Washing Gloves,Fashion,COD,2220.14,4,TRUE,Size Issue,79,68,1,4.9
+ORD_00447,12-01-2024,CUST_386,Reseller_2,Seller_7,Maharashtra,Flower Vase,Beauty,COD,3004.79,5,FALSE,,69,51,1,5
+ORD_00448,15-03-2024,CUST_309,Reseller_3,Seller_1,Delhi,Silk Saree,Home Decor,COD,1025.88,2,FALSE,,84,77,1,4.4
+ORD_00449,26-02-2024,CUST_362,Reseller_16,Seller_7,Delhi,Pressure Cooker,Kitchen,Prepaid,520.43,10,FALSE,,95,84,1,3.4
+ORD_00450,14-01-2024,CUST_278,Reseller_18,Seller_6,Karnataka,Ceiling Lamp,Beauty,Prepaid,1334.4,6,FALSE,,65,62,1,2.7
+ORD_00451,01-02-2024,CUST_380,Reseller_16,Seller_10,Karnataka,Makeup Brushes,Electronics,COD,4573.44,10,FALSE,,71,65,1,4.4
+ORD_00452,08-04-2024,CUST_139,Reseller_8,Seller_1,Tamil Nadu,Kitchen Knife Set,Home Decor,Prepaid,2350.75,3,TRUE,Size Issue,36,18,1,3.9
+ORD_00453,07-04-2024,CUST_23,Reseller_9,Seller_1,Uttar Pradesh,Yoga Mat,Fashion,COD,241.42,8,FALSE,,29,23,1,3.6
+ORD_00454,31-05-2024,CUST_387,Reseller_2,Seller_9,Karnataka,Smart Watch,Electronics,COD,3850.53,2,FALSE,,44,36,1,4.8
+ORD_00455,16-05-2024,CUST_284,Reseller_20,Seller_6,Tamil Nadu,Handbag,Fashion,Prepaid,3945.67,2,FALSE,,50,41,1,2.8
+ORD_00456,04-01-2024,CUST_474,Reseller_19,Seller_10,Uttar Pradesh,Wireless Mouse,Electronics,COD,4807.48,9,FALSE,,31,27,1,3.7
+ORD_00457,16-06-2024,CUST_186,Reseller_8,Seller_2,Uttar Pradesh,Curtain Set,Beauty,COD,2919.75,2,FALSE,,35,27,1,2.5
+ORD_00458,22-04-2024,CUST_228,Reseller_4,Seller_1,Karnataka,Fruit Basket,Kitchen,COD,1706.8,6,FALSE,,60,60,1,3.7
+ORD_00459,21-03-2024,CUST_142,Reseller_12,Seller_1,Tamil Nadu,Silk Saree,Electronics,Prepaid,2849.55,8,TRUE,Size Issue,79,62,1,2.6
+ORD_00460,13-01-2024,CUST_76,Reseller_9,Seller_3,Karnataka,Non-Stick Pan,Electronics,COD,2550.41,5,FALSE,,80,60,1,2.8
+ORD_00461,06-03-2024,CUST_117,Reseller_6,Seller_1,Uttar Pradesh,Water Bottle,Fashion,Prepaid,2962.47,2,FALSE,,8,0,0,2.8
+ORD_00462,22-02-2024,CUST_262,Reseller_2,Seller_9,Uttar Pradesh,Cotton Kurti,Beauty,COD,679.44,10,FALSE,,10,3,1,4.1
+ORD_00463,14-04-2024,CUST_404,Reseller_14,Seller_6,Delhi,Choker Necklace,Kitchen,Prepaid,4397.89,4,TRUE,No Return,47,37,1,4.4
+ORD_00464,28-01-2024,CUST_467,Reseller_10,Seller_8,Uttar Pradesh,Electric Tandoor,Beauty,COD,1936.26,6,FALSE,,76,76,1,4
+ORD_00465,07-04-2024,CUST_299,Reseller_17,Seller_6,Uttar Pradesh,Casual Shirt,Home Decor,Prepaid,3607.28,5,FALSE,,5,1,1,4.9
+ORD_00466,15-05-2024,CUST_276,Reseller_8,Seller_2,Uttar Pradesh,Face Roller,Fashion,COD,2936.03,10,FALSE,,94,91,1,3.4
+ORD_00467,02-04-2024,CUST_125,Reseller_17,Seller_8,Uttar Pradesh,Wall Clock,Kitchen,COD,1455.54,11,FALSE,,43,36,1,3.2
+ORD_00468,20-01-2024,CUST_181,Reseller_4,Seller_6,Maharashtra,Water Bottle,Electronics,COD,4794.4,8,FALSE,,72,56,1,4.7
+ORD_00469,21-06-2024,CUST_126,Reseller_8,Seller_10,Tamil Nadu,Kitchen Knife Set,Electronics,Prepaid,1264.35,4,FALSE,,100,87,1,3.1
+ORD_00470,10-06-2024,CUST_76,Reseller_9,Seller_10,Karnataka,Electric Kettle,Home Decor,COD,722.13,8,FALSE,,74,59,1,4.9
+ORD_00471,02-02-2024,CUST_241,Reseller_15,Seller_3,Delhi,Fruit Basket,Home Decor,COD,2180.33,10,FALSE,,96,93,1,2.5
+ORD_00472,27-06-2024,CUST_182,Reseller_6,Seller_1,Delhi,Bluetooth Earbuds,Electronics,COD,4354.37,8,FALSE,,17,5,1,4.9
+ORD_00473,19-01-2024,CUST_56,Reseller_4,Seller_5,Karnataka,Measuring Cups,Home Decor,Prepaid,4507.02,11,FALSE,,93,92,1,2.6
+ORD_00474,10-05-2024,CUST_376,Reseller_14,Seller_8,Tamil Nadu,Digital Thermometer,Beauty,Prepaid,2263.1,9,FALSE,,24,6,1,4.7
+ORD_00475,12-03-2024,CUST_91,Reseller_19,Seller_1,Uttar Pradesh,Lipstick Set,Home Decor,COD,3299.61,8,FALSE,,66,48,1,3.8
+ORD_00476,23-03-2024,CUST_433,Reseller_10,Seller_4,Tamil Nadu,Fruit Basket,Fashion,COD,2886.04,10,FALSE,,55,46,1,5
+ORD_00477,21-03-2024,CUST_143,Reseller_5,Seller_3,Delhi,Photo Frame,Beauty,Prepaid,3712.93,5,FALSE,,74,55,1,2.7
+ORD_00478,28-01-2024,CUST_148,Reseller_6,Seller_5,Delhi,Bedsheet Double,Beauty,COD,2510.18,5,FALSE,,34,15,1,3.9
+ORD_00479,19-02-2024,CUST_492,Reseller_4,Seller_3,Maharashtra,Water Bottle,Beauty,COD,2617.19,4,TRUE,Size Issue,70,53,1,4.9
+ORD_00480,16-03-2024,CUST_267,Reseller_12,Seller_1,Maharashtra,Silk Saree,Electronics,COD,4747.22,8,FALSE,,17,3,1,3.8
+ORD_00481,26-02-2024,CUST_60,Reseller_14,Seller_8,Tamil Nadu,Mobile Stand,Fashion,COD,4342.84,6,FALSE,,46,44,1,4.1
+ORD_00482,10-01-2024,CUST_38,Reseller_6,Seller_6,Uttar Pradesh,Hair Straightener,Fashion,COD,2349.3,10,FALSE,,91,81,1,4.2
+ORD_00483,06-04-2024,CUST_126,Reseller_11,Seller_9,Maharashtra,Raincoat,Fashion,Prepaid,3356.48,12,TRUE,Size Issue,18,0,0,3.6
+ORD_00484,12-05-2024,CUST_102,Reseller_16,Seller_5,Maharashtra,Water Bottle,Home Decor,COD,1057.46,9,FALSE,,82,80,1,4.1
+ORD_00485,29-05-2024,CUST_315,Reseller_14,Seller_1,Delhi,Hair Straightener,Home Decor,COD,3114.4,4,TRUE,Wrong Item,49,29,1,4
+ORD_00486,02-06-2024,CUST_251,Reseller_17,Seller_8,Maharashtra,LED Strip Light,Beauty,Prepaid,4227.36,6,FALSE,,81,69,1,4.8
+ORD_00487,18-06-2024,CUST_229,Reseller_10,Seller_8,Delhi,Makeup Brushes,Kitchen,COD,4820.16,6,FALSE,,42,35,1,2.6
+ORD_00488,02-06-2024,CUST_397,Reseller_15,Seller_3,Karnataka,Raincoat,Fashion,Prepaid,1835.76,8,FALSE,,62,47,1,3.2
+ORD_00489,15-04-2024,CUST_134,Reseller_10,Seller_1,Karnataka,Men's Jeans,Home Decor,COD,4465.58,8,TRUE,Wrong Item,87,77,1,4.9
+ORD_00490,24-04-2024,CUST_420,Reseller_13,Seller_7,Karnataka,Bluetooth Speaker,Electronics,Prepaid,1451.34,5,FALSE,,6,0,0,4.7
+ORD_00491,06-01-2024,CUST_67,Reseller_6,Seller_10,Uttar Pradesh,Men's Jeans,Home Decor,COD,3182.64,11,FALSE,,78,61,1,3.6
+ORD_00492,17-05-2024,CUST_266,Reseller_3,Seller_7,Karnataka,Hair Straightener,Fashion,Prepaid,3869.18,10,TRUE,Size Issue,27,16,1,4.1
+ORD_00493,04-01-2024,CUST_111,Reseller_13,Seller_9,Maharashtra,Flower Vase,Home Decor,COD,932.81,7,FALSE,,71,64,1,3.2
+ORD_00494,25-06-2024,CUST_13,Reseller_4,Seller_9,Uttar Pradesh,Bluetooth Earbuds,Fashion,COD,2501.76,4,FALSE,,30,10,1,3
+ORD_00495,29-06-2024,CUST_40,Reseller_4,Seller_5,Tamil Nadu,LED Strip Light,Fashion,Prepaid,786.29,6,FALSE,,10,0,0,3.7
+ORD_00496,23-03-2024,CUST_100,Reseller_1,Seller_1,Uttar Pradesh,Face Roller,Electronics,Prepaid,886.46,11,FALSE,,78,69,1,3.4
+ORD_00497,24-01-2024,CUST_193,Reseller_10,Seller_1,Karnataka,Raincoat,Kitchen,COD,633.44,12,FALSE,,38,25,1,4
+ORD_00498,05-04-2024,CUST_9,Reseller_9,Seller_9,Tamil Nadu,Water Bottle,Electronics,COD,3558.97,10,FALSE,,64,52,1,2.7
+ORD_00499,13-06-2024,CUST_245,Reseller_15,Seller_2,Maharashtra,Face Roller,Kitchen,COD,270.73,5,FALSE,,73,70,1,4.9
+ORD_00500,06-06-2024,CUST_43,Reseller_3,Seller_3,Delhi,Yoga Mat,Beauty,COD,1157.26,9,FALSE,,19,7,1,5
+ORD_00501,23-03-2024,CUST_428,Reseller_8,Seller_10,Delhi,Washing Gloves,Kitchen,Prepaid,1372.32,6,FALSE,,20,19,1,4.2
+ORD_00502,15-06-2024,CUST_280,Reseller_14,Seller_10,Delhi,Cosmetic Pouch,Kitchen,COD,1164.74,10,FALSE,,64,54,1,3.8
+ORD_00503,06-04-2024,CUST_218,Reseller_16,Seller_8,Uttar Pradesh,LED Strip Light,Beauty,COD,3737.47,3,FALSE,,90,88,1,3.3
+ORD_00504,14-05-2024,CUST_254,Reseller_17,Seller_3,Delhi,Pressure Cooker,Fashion,COD,2272.37,3,TRUE,Late Delivery,22,2,1,4.5
+ORD_00505,13-05-2024,CUST_451,Reseller_14,Seller_9,Tamil Nadu,Essential Oils,Home Decor,COD,720.28,6,FALSE,,87,79,1,4.2
+ORD_00506,12-05-2024,CUST_488,Reseller_19,Seller_6,Maharashtra,Choker Necklace,Kitchen,COD,2687.77,5,FALSE,,92,81,1,2.9
+ORD_00507,15-02-2024,CUST_6,Reseller_15,Seller_8,Maharashtra,Casual Shirt,Beauty,Prepaid,4646.34,4,TRUE,Late Delivery,41,28,1,4.8
+ORD_00508,08-06-2024,CUST_170,Reseller_1,Seller_2,Karnataka,Nail Paint Kit,Electronics,Prepaid,1116.45,3,FALSE,,13,12,1,4.6
+ORD_00509,13-03-2024,CUST_476,Reseller_3,Seller_3,Karnataka,Wireless Mouse,Kitchen,Prepaid,4434.21,7,FALSE,,25,17,1,4.9
+ORD_00510,31-05-2024,CUST_338,Reseller_12,Seller_5,Uttar Pradesh,Raincoat,Kitchen,Prepaid,4681.39,10,FALSE,,26,24,1,4.3
+ORD_00511,27-05-2024,CUST_393,Reseller_9,Seller_4,Maharashtra,Nail Paint Kit,Fashion,COD,646.26,10,FALSE,,50,40,1,4
+ORD_00512,07-02-2024,CUST_111,Reseller_9,Seller_10,Uttar Pradesh,Fruit Basket,Kitchen,Prepaid,2446.02,4,TRUE,Damaged,12,0,0,3.5
+ORD_00513,24-03-2024,CUST_226,Reseller_1,Seller_8,Karnataka,Nail Paint Kit,Home Decor,COD,4853.73,4,FALSE,,55,40,1,4.8
+ORD_00514,15-05-2024,CUST_430,Reseller_8,Seller_2,Uttar Pradesh,Yoga Mat,Kitchen,COD,3903.51,9,FALSE,,67,57,1,4.7
+ORD_00515,22-05-2024,CUST_356,Reseller_6,Seller_4,Karnataka,Lipstick Set,Kitchen,Prepaid,4223.4,10,FALSE,,33,30,1,2.6
+ORD_00516,18-02-2024,CUST_110,Reseller_1,Seller_3,Karnataka,Raincoat,Beauty,Prepaid,3888.11,7,FALSE,,79,62,1,2.6
+ORD_00517,05-03-2024,CUST_169,Reseller_1,Seller_3,Maharashtra,Photo Frame,Beauty,COD,2701.11,2,FALSE,,13,2,1,3.4
+ORD_00518,26-05-2024,CUST_141,Reseller_9,Seller_10,Delhi,Notebook Combo,Fashion,Prepaid,3262.12,8,TRUE,Wrong Item,81,80,1,4.5
+ORD_00519,04-04-2024,CUST_414,Reseller_15,Seller_10,Tamil Nadu,Cotton Kurti,Electronics,COD,3787.19,12,FALSE,,14,13,1,5
+ORD_00520,12-03-2024,CUST_161,Reseller_6,Seller_3,Maharashtra,Cotton Kurti,Kitchen,COD,4195.21,3,TRUE,Size Issue,13,0,0,2.9
+ORD_00521,19-06-2024,CUST_188,Reseller_11,Seller_1,Karnataka,Flower Vase,Kitchen,Prepaid,970.69,11,FALSE,,67,67,1,4
+ORD_00522,20-02-2024,CUST_23,Reseller_3,Seller_1,Maharashtra,Bluetooth Speaker,Electronics,Prepaid,2582.4,6,TRUE,Late Delivery,36,17,1,3.5
+ORD_00523,24-05-2024,CUST_291,Reseller_6,Seller_7,Delhi,Cosmetic Pouch,Kitchen,COD,2868.71,3,FALSE,,90,88,1,4.9
+ORD_00524,03-01-2024,CUST_11,Reseller_3,Seller_2,Maharashtra,Wireless Mouse,Fashion,Prepaid,1050.45,11,FALSE,,99,94,1,4.6
+ORD_00525,14-01-2024,CUST_378,Reseller_3,Seller_8,Maharashtra,Handbag,Beauty,COD,3452.32,5,FALSE,,17,8,1,4.6
+ORD_00526,07-03-2024,CUST_103,Reseller_9,Seller_3,Maharashtra,Photo Frame,Beauty,COD,2157.82,5,FALSE,,23,14,1,3.7
+ORD_00527,10-01-2024,CUST_425,Reseller_3,Seller_5,Tamil Nadu,Cosmetic Pouch,Electronics,COD,1913.52,12,FALSE,,81,76,1,3.5
+ORD_00528,28-03-2024,CUST_350,Reseller_18,Seller_3,Uttar Pradesh,Electric Kettle,Electronics,COD,3555.61,7,FALSE,,37,31,1,3.2
+ORD_00529,17-06-2024,CUST_17,Reseller_9,Seller_9,Delhi,Cosmetic Pouch,Kitchen,COD,1172,5,FALSE,,15,0,0,2.6
+ORD_00530,28-06-2024,CUST_462,Reseller_5,Seller_8,Tamil Nadu,Travel Backpack,Home Decor,COD,1955.57,8,FALSE,,5,0,0,4.7
+ORD_00531,29-04-2024,CUST_184,Reseller_6,Seller_1,Tamil Nadu,Bedsheet Double,Beauty,COD,1782.86,3,FALSE,,40,35,1,4.5
+ORD_00532,05-04-2024,CUST_243,Reseller_15,Seller_1,Uttar Pradesh,Wall Sticker,Home Decor,COD,2943.43,8,FALSE,,32,24,1,5
+ORD_00533,17-04-2024,CUST_462,Reseller_13,Seller_8,Karnataka,Casual Shirt,Beauty,COD,4655.6,5,FALSE,,65,62,1,5
+ORD_00534,20-02-2024,CUST_495,Reseller_13,Seller_10,Uttar Pradesh,Raincoat,Beauty,COD,2634.19,6,FALSE,,90,74,1,3.9
+ORD_00535,27-04-2024,CUST_235,Reseller_11,Seller_3,Delhi,Floor Cleaner,Home Decor,Prepaid,1649.98,4,FALSE,,51,46,1,4.4
+ORD_00536,24-06-2024,CUST_371,Reseller_6,Seller_4,Karnataka,Silk Saree,Home Decor,COD,1045.28,5,FALSE,,32,28,1,4.9
+ORD_00537,28-04-2024,CUST_109,Reseller_16,Seller_1,Maharashtra,Measuring Cups,Beauty,COD,2433.38,12,FALSE,,61,49,1,4.6
+ORD_00538,01-06-2024,CUST_460,Reseller_13,Seller_2,Maharashtra,Rice Container,Home Decor,COD,4686.02,8,FALSE,,37,24,1,3.1
+ORD_00539,04-04-2024,CUST_312,Reseller_12,Seller_2,Tamil Nadu,Bluetooth Speaker,Kitchen,Prepaid,4855.59,2,FALSE,,23,16,1,3.6
+ORD_00540,12-01-2024,CUST_71,Reseller_1,Seller_9,Uttar Pradesh,Kitchen Knife Set,Beauty,COD,2081.18,3,FALSE,,64,58,1,2.8
+ORD_00541,09-01-2024,CUST_199,Reseller_3,Seller_7,Karnataka,Handbag,Beauty,COD,1022.4,4,FALSE,,87,72,1,4.9
+ORD_00542,16-06-2024,CUST_178,Reseller_6,Seller_3,Tamil Nadu,Hair Dryer,Electronics,Prepaid,4196.03,9,FALSE,,88,85,1,4
+ORD_00543,18-03-2024,CUST_217,Reseller_11,Seller_3,Maharashtra,Bluetooth Speaker,Fashion,COD,2012.35,9,TRUE,Late Delivery,99,98,1,3.1
+ORD_00544,15-02-2024,CUST_498,Reseller_20,Seller_2,Tamil Nadu,Raincoat,Beauty,COD,3937.87,7,FALSE,,47,44,1,4.2
+ORD_00545,21-04-2024,CUST_264,Reseller_3,Seller_7,Maharashtra,Raincoat,Kitchen,COD,4748.78,11,FALSE,,79,65,1,4
+ORD_00546,18-04-2024,CUST_352,Reseller_2,Seller_5,Delhi,Wall Clock,Electronics,Prepaid,2382.22,2,FALSE,,48,40,1,3.4
+ORD_00547,01-06-2024,CUST_153,Reseller_18,Seller_1,Karnataka,Face Wash,Beauty,COD,1880.89,2,FALSE,,82,81,1,2.8
+ORD_00548,11-03-2024,CUST_325,Reseller_18,Seller_1,Tamil Nadu,Mobile Stand,Beauty,COD,557.63,3,TRUE,Damaged,64,51,1,4.2
+ORD_00549,26-01-2024,CUST_76,Reseller_8,Seller_10,Uttar Pradesh,Makeup Brushes,Electronics,COD,347.11,7,FALSE,,78,58,1,3.8
+ORD_00550,30-01-2024,CUST_381,Reseller_11,Seller_2,Karnataka,Photo Frame,Kitchen,COD,258.56,6,FALSE,,11,0,0,4.4
+ORD_00551,01-05-2024,CUST_26,Reseller_10,Seller_5,Uttar Pradesh,Flower Vase,Kitchen,COD,4293.08,5,FALSE,,48,30,1,3.8
+ORD_00552,02-01-2024,CUST_348,Reseller_6,Seller_5,Karnataka,Handbag,Electronics,COD,371.85,8,FALSE,,37,29,1,4.6
+ORD_00553,24-03-2024,CUST_114,Reseller_14,Seller_1,Maharashtra,Men's Jeans,Home Decor,COD,2392.84,12,FALSE,,29,29,1,3.9
+ORD_00554,22-05-2024,CUST_278,Reseller_10,Seller_10,Uttar Pradesh,Water Bottle,Fashion,Prepaid,3001.38,12,FALSE,,50,35,1,3.9
+ORD_00555,06-03-2024,CUST_358,Reseller_11,Seller_6,Karnataka,Silk Saree,Beauty,Prepaid,886.13,9,FALSE,,22,10,1,4.7
+ORD_00556,15-03-2024,CUST_272,Reseller_3,Seller_10,Tamil Nadu,Bluetooth Speaker,Fashion,COD,1824.7,5,FALSE,,48,39,1,3.5
+ORD_00557,13-03-2024,CUST_221,Reseller_15,Seller_8,Delhi,Face Roller,Beauty,COD,2986.94,11,FALSE,,54,54,1,2.8
+ORD_00558,15-03-2024,CUST_109,Reseller_13,Seller_4,Uttar Pradesh,Measuring Cups,Electronics,COD,3094.54,3,TRUE,Damaged,15,0,0,2.6
+ORD_00559,28-01-2024,CUST_395,Reseller_18,Seller_7,Tamil Nadu,Smart Watch,Home Decor,COD,1206.1,11,FALSE,,47,27,1,4.4
+ORD_00560,15-02-2024,CUST_147,Reseller_18,Seller_9,Uttar Pradesh,Hand Blender,Beauty,COD,4316.42,9,FALSE,,58,53,1,4.1
+ORD_00561,17-04-2024,CUST_197,Reseller_18,Seller_1,Karnataka,Bluetooth Speaker,Beauty,Prepaid,3332.52,12,FALSE,,75,55,1,4.3
+ORD_00562,06-01-2024,CUST_307,Reseller_1,Seller_4,Uttar Pradesh,Men's Jeans,Electronics,COD,3107.07,10,FALSE,,74,61,1,3
+ORD_00563,21-05-2024,CUST_453,Reseller_6,Seller_4,Uttar Pradesh,Choker Necklace,Kitchen,Prepaid,3469.16,7,TRUE,No Return,84,72,1,2.8
+ORD_00564,03-02-2024,CUST_472,Reseller_15,Seller_3,Karnataka,Notebook Combo,Home Decor,Prepaid,1310.68,9,FALSE,,26,16,1,2.5
+ORD_00565,08-05-2024,CUST_124,Reseller_7,Seller_1,Uttar Pradesh,Toaster,Fashion,COD,1338.48,11,FALSE,,23,9,1,3.4
+ORD_00566,13-05-2024,CUST_350,Reseller_11,Seller_10,Maharashtra,Electric Tandoor,Fashion,COD,3651.92,3,TRUE,Size Issue,87,74,1,4
+ORD_00567,22-04-2024,CUST_274,Reseller_14,Seller_2,Karnataka,Washing Gloves,Electronics,Prepaid,2756.11,11,FALSE,,92,92,1,3.5
+ORD_00568,27-01-2024,CUST_226,Reseller_13,Seller_5,Delhi,Washing Gloves,Fashion,COD,3625.63,10,FALSE,,55,52,1,3.6
+ORD_00569,08-03-2024,CUST_408,Reseller_4,Seller_10,Maharashtra,Nail Paint Kit,Beauty,COD,3334.2,4,FALSE,,62,56,1,4.8
+ORD_00570,28-06-2024,CUST_228,Reseller_15,Seller_2,Tamil Nadu,Bedsheet Double,Beauty,Prepaid,3821.36,7,FALSE,,43,29,1,3.4
+ORD_00571,19-03-2024,CUST_289,Reseller_20,Seller_5,Delhi,Hair Dryer,Kitchen,Prepaid,867.92,6,TRUE,Wrong Item,47,38,1,3.8
+ORD_00572,04-06-2024,CUST_356,Reseller_10,Seller_10,Tamil Nadu,Rice Container,Home Decor,Prepaid,3415.4,4,FALSE,,17,13,1,4.5
+ORD_00573,12-05-2024,CUST_133,Reseller_8,Seller_5,Delhi,Toaster,Electronics,Prepaid,2978.67,4,FALSE,,47,31,1,3.5
+ORD_00574,14-06-2024,CUST_192,Reseller_6,Seller_10,Karnataka,Bluetooth Speaker,Electronics,Prepaid,2997.61,10,FALSE,,49,34,1,4.1
+ORD_00575,08-02-2024,CUST_159,Reseller_6,Seller_8,Tamil Nadu,T-shirt Combo,Kitchen,Prepaid,219.03,3,FALSE,,27,20,1,4.7
+ORD_00576,28-02-2024,CUST_431,Reseller_7,Seller_2,Karnataka,Curtain Set,Kitchen,COD,2911.63,12,FALSE,,96,80,1,4.9
+ORD_00577,21-01-2024,CUST_493,Reseller_2,Seller_6,Tamil Nadu,Digital Thermometer,Home Decor,Prepaid,4767.34,10,TRUE,No Return,69,52,1,2.9
+ORD_00578,25-06-2024,CUST_334,Reseller_17,Seller_10,Maharashtra,Wall Clock,Electronics,COD,4016.76,4,FALSE,,32,25,1,4.8
+ORD_00579,13-05-2024,CUST_470,Reseller_2,Seller_3,Uttar Pradesh,Rice Container,Electronics,COD,1495.76,5,FALSE,,9,5,1,3.7
+ORD_00580,20-02-2024,CUST_164,Reseller_8,Seller_4,Maharashtra,Yoga Mat,Fashion,COD,2969.16,9,TRUE,Size Issue,82,80,1,3.1
+ORD_00581,28-05-2024,CUST_154,Reseller_3,Seller_8,Tamil Nadu,Washing Gloves,Fashion,COD,2780.49,5,FALSE,,73,73,1,3.6
+ORD_00582,02-06-2024,CUST_129,Reseller_7,Seller_8,Uttar Pradesh,Raincoat,Fashion,Prepaid,3129.9,9,FALSE,,97,84,1,5
+ORD_00583,28-03-2024,CUST_445,Reseller_11,Seller_3,Uttar Pradesh,Curtain Set,Electronics,COD,1526.22,12,FALSE,,69,62,1,3.7
+ORD_00584,06-05-2024,CUST_164,Reseller_10,Seller_9,Tamil Nadu,Curtain Set,Kitchen,COD,3819.57,4,FALSE,,66,51,1,3.3
+ORD_00585,28-01-2024,CUST_276,Reseller_14,Seller_2,Karnataka,T-shirt Combo,Home Decor,COD,4330.84,7,FALSE,,24,18,1,4.1
+ORD_00586,26-05-2024,CUST_475,Reseller_10,Seller_4,Uttar Pradesh,Face Roller,Home Decor,COD,3867.14,9,TRUE,Wrong Item,79,73,1,3.1
+ORD_00587,01-05-2024,CUST_81,Reseller_6,Seller_6,Maharashtra,Wall Shelf,Home Decor,Prepaid,3961.18,4,FALSE,,42,26,1,2.7
+ORD_00588,21-03-2024,CUST_157,Reseller_9,Seller_7,Maharashtra,Electric Tandoor,Kitchen,Prepaid,2439.11,6,FALSE,,43,32,1,2.8
+ORD_00589,26-04-2024,CUST_182,Reseller_19,Seller_7,Tamil Nadu,Ceiling Lamp,Beauty,Prepaid,177.51,8,TRUE,Late Delivery,83,79,1,2.8
+ORD_00590,22-05-2024,CUST_405,Reseller_7,Seller_1,Maharashtra,Fruit Basket,Beauty,Prepaid,1391.26,7,TRUE,Late Delivery,49,39,1,2.9
+ORD_00591,31-05-2024,CUST_167,Reseller_20,Seller_4,Uttar Pradesh,Measuring Cups,Home Decor,COD,1478.72,3,FALSE,,93,78,1,2.8
+ORD_00592,17-05-2024,CUST_328,Reseller_16,Seller_7,Maharashtra,Washing Gloves,Fashion,COD,3092.52,8,TRUE,Size Issue,44,36,1,4.1
+ORD_00593,08-02-2024,CUST_376,Reseller_4,Seller_5,Tamil Nadu,Kitchen Knife Set,Electronics,COD,3786.66,7,FALSE,,53,49,1,3
+ORD_00594,15-05-2024,CUST_339,Reseller_7,Seller_10,Uttar Pradesh,Electric Kettle,Beauty,COD,1339.35,11,FALSE,,34,17,1,3.4
+ORD_00595,29-04-2024,CUST_110,Reseller_3,Seller_3,Karnataka,Toaster,Fashion,Prepaid,1901.96,9,FALSE,,24,14,1,4.7
+ORD_00596,31-01-2024,CUST_478,Reseller_11,Seller_6,Maharashtra,Water Bottle,Electronics,Prepaid,3564.69,6,FALSE,,3,0,0,3.7
+ORD_00597,24-05-2024,CUST_263,Reseller_13,Seller_7,Tamil Nadu,Electric Tandoor,Electronics,Prepaid,4183.62,2,FALSE,,48,48,1,4.2
+ORD_00598,29-01-2024,CUST_290,Reseller_11,Seller_9,Uttar Pradesh,Raincoat,Fashion,COD,2937.86,12,TRUE,Size Issue,12,0,0,2.9
+ORD_00599,11-03-2024,CUST_393,Reseller_3,Seller_9,Uttar Pradesh,Wall Sticker,Home Decor,Prepaid,3108.65,5,FALSE,,88,75,1,3
+ORD_00600,06-01-2024,CUST_355,Reseller_11,Seller_3,Delhi,Wireless Mouse,Electronics,COD,2939.84,9,FALSE,,95,82,1,2.6
+ORD_00601,29-05-2024,CUST_78,Reseller_1,Seller_5,Uttar Pradesh,Bluetooth Speaker,Kitchen,Prepaid,241.53,5,FALSE,,34,27,1,2.9
+ORD_00602,18-02-2024,CUST_367,Reseller_15,Seller_9,Maharashtra,Wall Shelf,Beauty,Prepaid,2936.03,7,FALSE,,74,70,1,3.2
+ORD_00603,24-03-2024,CUST_277,Reseller_10,Seller_4,Maharashtra,Fruit Basket,Home Decor,COD,2737.1,2,FALSE,,45,43,1,2.9
+ORD_00604,07-01-2024,CUST_112,Reseller_7,Seller_4,Karnataka,Choker Necklace,Home Decor,COD,4956.37,5,FALSE,,99,88,1,2.7
+ORD_00605,20-02-2024,CUST_229,Reseller_13,Seller_2,Delhi,Pressure Cooker,Electronics,COD,3758.12,5,FALSE,,57,45,1,2.8
+ORD_00606,31-01-2024,CUST_63,Reseller_4,Seller_10,Delhi,Handbag,Electronics,Prepaid,2607.51,11,FALSE,,21,15,1,3.7
+ORD_00607,26-04-2024,CUST_131,Reseller_11,Seller_6,Tamil Nadu,Essential Oils,Kitchen,COD,4927.99,10,FALSE,,66,63,1,3
+ORD_00608,15-06-2024,CUST_429,Reseller_14,Seller_7,Tamil Nadu,Cotton Kurti,Fashion,Prepaid,635.32,7,FALSE,,9,0,0,3.4
+ORD_00609,15-02-2024,CUST_24,Reseller_13,Seller_2,Tamil Nadu,Yoga Mat,Home Decor,COD,4826.54,12,FALSE,,19,12,1,3.8
+ORD_00610,05-04-2024,CUST_444,Reseller_17,Seller_3,Maharashtra,Floor Cleaner,Fashion,COD,2428.59,2,TRUE,Damaged,95,86,1,4.2
+ORD_00611,03-04-2024,CUST_415,Reseller_14,Seller_3,Maharashtra,Diya Set,Electronics,COD,2665.21,4,FALSE,,86,81,1,2.6
+ORD_00612,08-01-2024,CUST_15,Reseller_16,Seller_1,Maharashtra,Mobile Stand,Home Decor,COD,3182.77,6,FALSE,,4,0,0,4.5
+ORD_00613,24-01-2024,CUST_8,Reseller_14,Seller_3,Delhi,Washing Gloves,Fashion,COD,3848.14,10,TRUE,Size Issue,45,38,1,4.1
+ORD_00614,01-01-2024,CUST_439,Reseller_16,Seller_2,Tamil Nadu,Men's Jeans,Fashion,Prepaid,4302.28,10,FALSE,,78,58,1,2.7
+ORD_00615,26-05-2024,CUST_50,Reseller_9,Seller_8,Maharashtra,Yoga Mat,Electronics,COD,2768.93,11,FALSE,,62,47,1,4.7
+ORD_00616,06-06-2024,CUST_368,Reseller_17,Seller_4,Maharashtra,Flower Vase,Home Decor,Prepaid,841.59,12,TRUE,Size Issue,52,43,1,4.8
+ORD_00617,09-03-2024,CUST_267,Reseller_9,Seller_4,Maharashtra,Bedsheet Double,Home Decor,Prepaid,1610.37,9,FALSE,,67,49,1,2.7
+ORD_00618,13-01-2024,CUST_410,Reseller_14,Seller_6,Karnataka,Face Roller,Home Decor,Prepaid,2959.94,2,FALSE,,50,30,1,3.2
+ORD_00619,29-03-2024,CUST_293,Reseller_5,Seller_1,Delhi,Flower Vase,Home Decor,Prepaid,1303.47,8,FALSE,,62,47,1,4.5
+ORD_00620,27-03-2024,CUST_336,Reseller_15,Seller_7,Maharashtra,Flower Vase,Kitchen,COD,1424.6,9,TRUE,Wrong Item,99,83,1,4.4
+ORD_00621,08-03-2024,CUST_176,Reseller_11,Seller_5,Tamil Nadu,Face Wash,Home Decor,Prepaid,2363.13,3,FALSE,,98,82,1,3
+ORD_00622,02-02-2024,CUST_62,Reseller_1,Seller_7,Uttar Pradesh,Non-Stick Pan,Beauty,COD,1251.56,9,FALSE,,71,62,1,3
+ORD_00623,06-02-2024,CUST_420,Reseller_14,Seller_8,Uttar Pradesh,Makeup Brushes,Beauty,Prepaid,552.39,10,FALSE,,66,60,1,3.4
+ORD_00624,02-04-2024,CUST_269,Reseller_7,Seller_1,Karnataka,Wall Shelf,Home Decor,COD,3932.7,11,FALSE,,7,0,0,3.7
+ORD_00625,18-05-2024,CUST_317,Reseller_6,Seller_9,Karnataka,Wall Sticker,Home Decor,COD,3449.92,12,FALSE,,29,25,1,4
+ORD_00626,29-04-2024,CUST_268,Reseller_9,Seller_4,Delhi,Diya Set,Electronics,Prepaid,4752.16,6,FALSE,,54,39,1,3.4
+ORD_00627,18-01-2024,CUST_376,Reseller_1,Seller_5,Delhi,Choker Necklace,Home Decor,COD,2845.42,6,FALSE,,79,60,1,3.7
+ORD_00628,10-04-2024,CUST_82,Reseller_5,Seller_3,Tamil Nadu,Wall Clock,Electronics,Prepaid,3858.28,5,FALSE,,83,70,1,4.4
+ORD_00629,21-06-2024,CUST_64,Reseller_12,Seller_4,Delhi,Electric Kettle,Home Decor,COD,4752.89,4,FALSE,,93,75,1,2.6
+ORD_00630,02-06-2024,CUST_269,Reseller_5,Seller_8,Karnataka,Nail Paint Kit,Home Decor,Prepaid,202.23,3,FALSE,,14,0,0,3.1
+ORD_00631,07-04-2024,CUST_449,Reseller_10,Seller_8,Delhi,Washing Gloves,Home Decor,COD,3108.67,4,TRUE,Wrong Item,35,34,1,4.3
+ORD_00632,23-01-2024,CUST_116,Reseller_14,Seller_8,Uttar Pradesh,Hair Dryer,Fashion,COD,3592.34,9,FALSE,,67,64,1,4.7
+ORD_00633,11-03-2024,CUST_327,Reseller_12,Seller_10,Maharashtra,Hair Straightener,Kitchen,Prepaid,3374.82,8,FALSE,,14,6,1,3.8
+ORD_00634,06-05-2024,CUST_249,Reseller_14,Seller_6,Karnataka,Hair Dryer,Kitchen,Prepaid,553,3,FALSE,,32,14,1,3.8
+ORD_00635,04-06-2024,CUST_429,Reseller_9,Seller_7,Delhi,Water Bottle,Kitchen,Prepaid,4157.37,9,FALSE,,73,61,1,2.8
+ORD_00636,02-04-2024,CUST_61,Reseller_20,Seller_1,Delhi,Clutch Purse,Electronics,COD,3998.96,3,FALSE,,98,91,1,3.6
+ORD_00637,09-06-2024,CUST_268,Reseller_13,Seller_7,Delhi,Electric Kettle,Kitchen,COD,3972.46,9,FALSE,,5,0,0,3.8
+ORD_00638,05-03-2024,CUST_411,Reseller_7,Seller_1,Uttar Pradesh,Digital Thermometer,Electronics,COD,3208.03,7,TRUE,Late Delivery,4,0,0,3.1
+ORD_00639,23-02-2024,CUST_326,Reseller_8,Seller_6,Karnataka,Makeup Brushes,Beauty,COD,381.83,9,FALSE,,34,29,1,3.2
+ORD_00640,17-05-2024,CUST_171,Reseller_13,Seller_6,Karnataka,Measuring Cups,Kitchen,Prepaid,984.48,9,FALSE,,46,27,1,3.4
+ORD_00641,07-04-2024,CUST_255,Reseller_10,Seller_6,Delhi,Digital Thermometer,Home Decor,Prepaid,588.6,8,FALSE,,82,77,1,2.6
+ORD_00642,18-02-2024,CUST_166,Reseller_12,Seller_8,Karnataka,Flower Vase,Beauty,Prepaid,4494.53,4,FALSE,,3,0,0,3.3
+ORD_00643,24-01-2024,CUST_39,Reseller_18,Seller_9,Karnataka,Electric Kettle,Beauty,Prepaid,2760.53,8,FALSE,,26,24,1,3
+ORD_00644,06-06-2024,CUST_54,Reseller_9,Seller_7,Maharashtra,Rice Container,Kitchen,Prepaid,2734.21,8,TRUE,Late Delivery,95,86,1,3.3
+ORD_00645,27-02-2024,CUST_141,Reseller_8,Seller_6,Tamil Nadu,Floor Cleaner,Fashion,Prepaid,1342.63,4,FALSE,,4,0,0,2.8
+ORD_00646,03-05-2024,CUST_494,Reseller_8,Seller_4,Tamil Nadu,Cosmetic Pouch,Home Decor,Prepaid,1197.45,2,FALSE,,3,0,0,4.7
+ORD_00647,07-03-2024,CUST_322,Reseller_18,Seller_9,Uttar Pradesh,Ceiling Lamp,Electronics,COD,1052.38,10,FALSE,,74,62,1,4
+ORD_00648,23-03-2024,CUST_183,Reseller_14,Seller_5,Karnataka,Rice Container,Beauty,COD,4638.7,5,FALSE,,10,6,1,4.2
+ORD_00649,03-06-2024,CUST_275,Reseller_19,Seller_9,Maharashtra,Cosmetic Pouch,Home Decor,COD,4599.78,10,FALSE,,41,38,1,4.5
+ORD_00650,17-01-2024,CUST_255,Reseller_8,Seller_9,Tamil Nadu,Water Bottle,Beauty,COD,4207.58,9,FALSE,,76,63,1,3.7
+ORD_00651,17-01-2024,CUST_76,Reseller_15,Seller_9,Uttar Pradesh,T-shirt Combo,Fashion,Prepaid,4494.83,9,FALSE,,9,0,0,2.7
+ORD_00652,20-03-2024,CUST_111,Reseller_9,Seller_10,Delhi,Hair Straightener,Beauty,Prepaid,2530.43,4,FALSE,,85,71,1,3.8
+ORD_00653,02-01-2024,CUST_349,Reseller_8,Seller_6,Uttar Pradesh,Wall Sticker,Beauty,Prepaid,2613.58,8,TRUE,No Return,76,66,1,4
+ORD_00654,04-03-2024,CUST_374,Reseller_19,Seller_6,Delhi,Diya Set,Fashion,Prepaid,494.41,3,FALSE,,21,15,1,4.4
+ORD_00655,14-04-2024,CUST_294,Reseller_1,Seller_3,Tamil Nadu,Casual Shirt,Home Decor,Prepaid,1759.18,3,FALSE,,90,78,1,3.6
+ORD_00656,07-03-2024,CUST_256,Reseller_11,Seller_3,Maharashtra,Photo Frame,Electronics,COD,1872.51,8,FALSE,,12,7,1,2.8
+ORD_00657,22-05-2024,CUST_451,Reseller_12,Seller_4,Delhi,Bluetooth Speaker,Home Decor,COD,3796.3,10,FALSE,,78,77,1,3.2
+ORD_00658,24-05-2024,CUST_157,Reseller_6,Seller_2,Delhi,Wall Clock,Beauty,Prepaid,2716.24,2,FALSE,,4,0,0,3.4
+ORD_00659,15-02-2024,CUST_308,Reseller_7,Seller_3,Uttar Pradesh,Kitchen Knife Set,Fashion,COD,2745.79,7,TRUE,Damaged,48,30,1,4.1
+ORD_00660,15-03-2024,CUST_407,Reseller_5,Seller_9,Tamil Nadu,Ceiling Lamp,Home Decor,COD,338.06,10,FALSE,,16,7,1,3.9
+ORD_00661,17-06-2024,CUST_314,Reseller_19,Seller_3,Uttar Pradesh,Bedsheet Double,Beauty,COD,633.65,5,FALSE,,44,30,1,3.4
+ORD_00662,13-04-2024,CUST_419,Reseller_4,Seller_8,Uttar Pradesh,Measuring Cups,Electronics,COD,1344.18,4,FALSE,,63,57,1,5
+ORD_00663,27-05-2024,CUST_467,Reseller_16,Seller_1,Uttar Pradesh,Bluetooth Earbuds,Beauty,COD,2671.24,12,FALSE,,68,50,1,4
+ORD_00664,19-04-2024,CUST_102,Reseller_13,Seller_9,Uttar Pradesh,Cosmetic Pouch,Kitchen,Prepaid,1520.42,4,FALSE,,38,18,1,3.1
+ORD_00665,14-03-2024,CUST_200,Reseller_3,Seller_7,Tamil Nadu,Bluetooth Speaker,Electronics,COD,655.94,10,FALSE,,40,25,1,2.8
+ORD_00666,13-06-2024,CUST_293,Reseller_2,Seller_9,Maharashtra,Fruit Basket,Fashion,Prepaid,1639.53,11,FALSE,,70,65,1,2.9
+ORD_00667,10-05-2024,CUST_27,Reseller_1,Seller_9,Delhi,Choker Necklace,Fashion,Prepaid,2016.77,7,FALSE,,88,75,1,3.1
+ORD_00668,22-02-2024,CUST_365,Reseller_12,Seller_9,Delhi,Clutch Purse,Home Decor,Prepaid,628.46,4,FALSE,,41,39,1,2.9
+ORD_00669,15-02-2024,CUST_3,Reseller_20,Seller_10,Delhi,Essential Oils,Home Decor,COD,2000.22,3,FALSE,,31,21,1,3
+ORD_00670,09-06-2024,CUST_452,Reseller_13,Seller_6,Delhi,Photo Frame,Home Decor,COD,3053.95,11,FALSE,,55,37,1,3.2
+ORD_00671,05-03-2024,CUST_98,Reseller_14,Seller_5,Delhi,Yoga Mat,Home Decor,COD,2156.15,6,FALSE,,100,85,1,2.9
+ORD_00672,18-01-2024,CUST_60,Reseller_2,Seller_7,Tamil Nadu,Casual Shirt,Fashion,COD,3494.07,3,FALSE,,21,6,1,4.7
+ORD_00673,07-03-2024,CUST_147,Reseller_6,Seller_6,Karnataka,Smart Watch,Kitchen,Prepaid,3617.86,8,FALSE,,37,19,1,2.7
+ORD_00674,28-01-2024,CUST_19,Reseller_7,Seller_7,Delhi,Bedsheet Double,Fashion,COD,2565.14,4,FALSE,,61,46,1,3.8
+ORD_00675,06-02-2024,CUST_316,Reseller_13,Seller_1,Maharashtra,Mobile Stand,Home Decor,COD,3514.04,3,FALSE,,48,34,1,3.5
+ORD_00676,05-03-2024,CUST_486,Reseller_17,Seller_1,Maharashtra,Ceiling Lamp,Kitchen,Prepaid,3665.81,2,FALSE,,20,10,1,5
+ORD_00677,19-02-2024,CUST_116,Reseller_7,Seller_8,Delhi,Smart Watch,Beauty,COD,892.52,6,FALSE,,24,4,1,2.8
+ORD_00678,15-01-2024,CUST_74,Reseller_15,Seller_1,Delhi,Face Wash,Electronics,Prepaid,3068.05,6,FALSE,,71,61,1,3.5
+ORD_00679,02-01-2024,CUST_74,Reseller_17,Seller_7,Uttar Pradesh,Mobile Stand,Fashion,COD,3644.34,7,FALSE,,14,7,1,4.9
+ORD_00680,19-01-2024,CUST_19,Reseller_2,Seller_10,Tamil Nadu,Photo Frame,Fashion,Prepaid,730.26,5,FALSE,,73,56,1,4.7
+ORD_00681,11-06-2024,CUST_314,Reseller_13,Seller_10,Karnataka,Cotton Kurti,Electronics,Prepaid,2025.82,5,FALSE,,33,22,1,4.5
+ORD_00682,11-02-2024,CUST_90,Reseller_15,Seller_3,Uttar Pradesh,Wireless Mouse,Electronics,Prepaid,1235.62,6,FALSE,,50,42,1,3.1
+ORD_00683,31-03-2024,CUST_206,Reseller_10,Seller_7,Maharashtra,Kitchen Knife Set,Fashion,COD,2140.3,10,FALSE,,17,0,0,2.9
+ORD_00684,04-02-2024,CUST_173,Reseller_14,Seller_7,Tamil Nadu,Handbag,Electronics,Prepaid,2302.88,8,FALSE,,42,30,1,4.2
+ORD_00685,14-04-2024,CUST_187,Reseller_8,Seller_4,Maharashtra,Hair Straightener,Kitchen,Prepaid,2906.67,12,FALSE,,60,43,1,4.8
+ORD_00686,15-04-2024,CUST_427,Reseller_13,Seller_4,Maharashtra,Kitchen Knife Set,Beauty,COD,2782.72,9,FALSE,,100,81,1,3.9
+ORD_00687,26-06-2024,CUST_483,Reseller_11,Seller_4,Uttar Pradesh,Wall Clock,Home Decor,Prepaid,3349.31,10,FALSE,,57,57,1,3.9
+ORD_00688,15-04-2024,CUST_295,Reseller_6,Seller_10,Karnataka,Handbag,Electronics,Prepaid,3451.06,4,FALSE,,26,22,1,3.2
+ORD_00689,17-01-2024,CUST_322,Reseller_5,Seller_4,Tamil Nadu,Choker Necklace,Electronics,COD,4675.15,11,FALSE,,5,2,1,4.4
+ORD_00690,17-01-2024,CUST_78,Reseller_2,Seller_1,Karnataka,Lipstick Set,Fashion,Prepaid,1669.48,7,FALSE,,28,19,1,3
+ORD_00691,08-02-2024,CUST_411,Reseller_19,Seller_6,Tamil Nadu,Kitchen Knife Set,Kitchen,COD,3562.48,6,FALSE,,72,67,1,3.3
+ORD_00692,30-01-2024,CUST_144,Reseller_18,Seller_2,Uttar Pradesh,T-shirt Combo,Electronics,COD,2874.07,12,FALSE,,89,82,1,3.6
+ORD_00693,25-06-2024,CUST_393,Reseller_4,Seller_8,Delhi,Hand Blender,Home Decor,COD,1997.6,8,FALSE,,3,0,0,3.8
+ORD_00694,22-01-2024,CUST_291,Reseller_19,Seller_10,Maharashtra,Kitchen Knife Set,Electronics,COD,246.3,9,FALSE,,45,35,1,3.1
+ORD_00695,15-03-2024,CUST_493,Reseller_5,Seller_3,Uttar Pradesh,Kitchen Knife Set,Fashion,COD,2059.04,4,TRUE,Damaged,82,72,1,2.8
+ORD_00696,11-05-2024,CUST_187,Reseller_20,Seller_6,Tamil Nadu,Rice Container,Fashion,COD,4471.58,8,FALSE,,33,27,1,4
+ORD_00697,27-03-2024,CUST_135,Reseller_16,Seller_1,Karnataka,Curtain Set,Kitchen,Prepaid,402.25,5,FALSE,,58,45,1,3.2
+ORD_00698,21-02-2024,CUST_10,Reseller_3,Seller_8,Karnataka,Bluetooth Earbuds,Beauty,COD,783.65,11,TRUE,No Return,39,27,1,4
+ORD_00699,28-03-2024,CUST_402,Reseller_2,Seller_7,Karnataka,Washing Gloves,Electronics,Prepaid,1777.83,10,FALSE,,55,42,1,2.9
+ORD_00700,10-05-2024,CUST_44,Reseller_18,Seller_5,Maharashtra,Pressure Cooker,Beauty,COD,1443.36,9,FALSE,,86,76,1,3.7
+ORD_00701,20-01-2024,CUST_122,Reseller_4,Seller_3,Maharashtra,Mobile Stand,Fashion,COD,1960.93,4,FALSE,,100,98,1,3.8
+ORD_00702,05-06-2024,CUST_170,Reseller_20,Seller_6,Delhi,Silk Saree,Fashion,COD,3186.71,9,FALSE,,86,83,1,2.6
+ORD_00703,09-04-2024,CUST_108,Reseller_7,Seller_3,Delhi,Mobile Stand,Fashion,COD,3633.53,3,TRUE,Damaged,7,5,1,3.3
+ORD_00704,16-01-2024,CUST_375,Reseller_16,Seller_4,Maharashtra,Choker Necklace,Kitchen,Prepaid,2552.21,4,FALSE,,87,69,1,2.8
+ORD_00705,28-06-2024,CUST_295,Reseller_1,Seller_9,Delhi,Ceiling Lamp,Home Decor,COD,1108.94,4,FALSE,,25,22,1,2.7
+ORD_00706,15-04-2024,CUST_304,Reseller_6,Seller_4,Karnataka,Face Roller,Fashion,Prepaid,1254.42,8,FALSE,,38,19,1,5
+ORD_00707,17-01-2024,CUST_145,Reseller_14,Seller_4,Karnataka,Notebook Combo,Beauty,Prepaid,3716.9,10,TRUE,Wrong Item,97,92,1,3.3
+ORD_00708,04-01-2024,CUST_461,Reseller_12,Seller_8,Delhi,Wall Clock,Fashion,Prepaid,4115.86,3,FALSE,,92,78,1,4.5
+ORD_00709,01-04-2024,CUST_373,Reseller_19,Seller_6,Karnataka,Digital Thermometer,Fashion,Prepaid,3086.71,3,FALSE,,41,27,1,3.1
+ORD_00710,14-04-2024,CUST_88,Reseller_16,Seller_6,Karnataka,Digital Thermometer,Electronics,Prepaid,1670.35,5,FALSE,,6,0,0,4.2
+ORD_00711,22-03-2024,CUST_215,Reseller_13,Seller_6,Tamil Nadu,Wireless Mouse,Electronics,Prepaid,2402.3,4,TRUE,Late Delivery,4,0,0,4.4
+ORD_00712,10-04-2024,CUST_112,Reseller_12,Seller_7,Delhi,Photo Frame,Home Decor,COD,4114.41,4,TRUE,Damaged,13,13,1,4
+ORD_00713,28-02-2024,CUST_438,Reseller_11,Seller_5,Maharashtra,Washing Gloves,Home Decor,COD,2052.32,6,FALSE,,71,63,1,3.7
+ORD_00714,18-01-2024,CUST_31,Reseller_16,Seller_10,Tamil Nadu,Flower Vase,Electronics,COD,4280.25,9,FALSE,,46,43,1,3.5
+ORD_00715,10-02-2024,CUST_7,Reseller_10,Seller_10,Maharashtra,Choker Necklace,Electronics,COD,4725.19,5,FALSE,,40,20,1,3.4
+ORD_00716,04-04-2024,CUST_192,Reseller_14,Seller_10,Uttar Pradesh,Face Wash,Beauty,COD,777.73,6,FALSE,,89,85,1,4.8
+ORD_00717,01-05-2024,CUST_466,Reseller_1,Seller_2,Tamil Nadu,Floor Cleaner,Electronics,COD,1343.63,7,FALSE,,41,21,1,4.6
+ORD_00718,05-06-2024,CUST_294,Reseller_19,Seller_6,Karnataka,Curtain Set,Kitchen,Prepaid,4524,7,FALSE,,30,12,1,4.9
+ORD_00719,21-01-2024,CUST_76,Reseller_19,Seller_8,Tamil Nadu,LED Strip Light,Home Decor,Prepaid,1670.28,3,FALSE,,80,70,1,2.8
+ORD_00720,03-04-2024,CUST_142,Reseller_20,Seller_8,Karnataka,Clutch Purse,Electronics,COD,2039.45,5,FALSE,,92,88,1,4.3
+ORD_00721,04-05-2024,CUST_75,Reseller_8,Seller_8,Maharashtra,Fruit Basket,Fashion,Prepaid,1736.99,11,FALSE,,35,25,1,4.8
+ORD_00722,14-05-2024,CUST_32,Reseller_7,Seller_9,Maharashtra,Choker Necklace,Kitchen,Prepaid,3048.3,3,FALSE,,95,89,1,3
+ORD_00723,08-01-2024,CUST_74,Reseller_13,Seller_4,Tamil Nadu,Notebook Combo,Beauty,Prepaid,4285.6,6,FALSE,,38,38,1,2.7
+ORD_00724,23-04-2024,CUST_285,Reseller_12,Seller_2,Tamil Nadu,Electric Tandoor,Electronics,Prepaid,4965.95,9,FALSE,,21,2,1,4.4
+ORD_00725,05-01-2024,CUST_301,Reseller_9,Seller_2,Tamil Nadu,Face Roller,Beauty,COD,3575.54,9,FALSE,,17,7,1,3.9
+ORD_00726,23-03-2024,CUST_322,Reseller_18,Seller_6,Tamil Nadu,Mobile Stand,Fashion,COD,1679.05,8,FALSE,,56,36,1,4.6
+ORD_00727,07-05-2024,CUST_29,Reseller_20,Seller_6,Delhi,Bluetooth Speaker,Home Decor,Prepaid,1721.47,11,TRUE,No Return,93,89,1,2.8
+ORD_00728,21-01-2024,CUST_498,Reseller_5,Seller_3,Delhi,Non-Stick Pan,Fashion,COD,4709.6,5,TRUE,Wrong Item,46,36,1,4.5
+ORD_00729,23-01-2024,CUST_356,Reseller_16,Seller_2,Tamil Nadu,Men's Jeans,Beauty,COD,2694.69,12,FALSE,,20,3,1,3
+ORD_00730,02-05-2024,CUST_27,Reseller_4,Seller_3,Karnataka,Handbag,Electronics,COD,424.09,12,FALSE,,83,76,1,2.9
+ORD_00731,05-01-2024,CUST_388,Reseller_8,Seller_4,Maharashtra,Bluetooth Earbuds,Fashion,Prepaid,817.71,7,FALSE,,82,70,1,2.9
+ORD_00732,30-03-2024,CUST_299,Reseller_1,Seller_8,Tamil Nadu,Notebook Combo,Beauty,COD,344.63,11,TRUE,Damaged,63,63,1,4.5
+ORD_00733,13-03-2024,CUST_469,Reseller_12,Seller_10,Uttar Pradesh,Cosmetic Pouch,Fashion,Prepaid,946.27,5,TRUE,Size Issue,81,62,1,4.2
+ORD_00734,10-04-2024,CUST_101,Reseller_17,Seller_6,Tamil Nadu,Curtain Set,Kitchen,COD,1127.69,11,FALSE,,42,34,1,3.8
+ORD_00735,11-01-2024,CUST_105,Reseller_1,Seller_8,Tamil Nadu,Mobile Stand,Beauty,Prepaid,3309.33,10,FALSE,,24,21,1,3.4
+ORD_00736,28-04-2024,CUST_304,Reseller_7,Seller_4,Uttar Pradesh,Photo Frame,Fashion,Prepaid,1598.26,12,FALSE,,39,28,1,4.7
+ORD_00737,07-05-2024,CUST_441,Reseller_9,Seller_10,Maharashtra,Wall Clock,Home Decor,COD,1653.02,5,FALSE,,43,37,1,3.5
+ORD_00738,20-01-2024,CUST_306,Reseller_15,Seller_6,Tamil Nadu,Hair Straightener,Electronics,Prepaid,951.5,9,FALSE,,37,30,1,4.5
+ORD_00739,25-05-2024,CUST_156,Reseller_1,Seller_1,Uttar Pradesh,Diya Set,Fashion,COD,204.38,6,FALSE,,57,45,1,3.6
+ORD_00740,09-01-2024,CUST_335,Reseller_12,Seller_1,Maharashtra,T-shirt Combo,Fashion,Prepaid,4859.06,7,TRUE,Late Delivery,3,0,0,3.4
+ORD_00741,04-01-2024,CUST_451,Reseller_9,Seller_3,Tamil Nadu,Mobile Stand,Beauty,Prepaid,4453.71,5,TRUE,Size Issue,61,56,1,3.7
+ORD_00742,25-02-2024,CUST_246,Reseller_15,Seller_4,Uttar Pradesh,Mobile Stand,Fashion,Prepaid,1474.7,2,FALSE,,9,5,1,3.3
+ORD_00743,12-03-2024,CUST_296,Reseller_1,Seller_7,Delhi,Non-Stick Pan,Electronics,COD,4177.69,8,TRUE,Size Issue,6,4,1,4.4
+ORD_00744,12-01-2024,CUST_230,Reseller_7,Seller_8,Karnataka,Rice Container,Beauty,COD,1469.02,5,FALSE,,1,0,0,3.8
+ORD_00745,30-04-2024,CUST_307,Reseller_16,Seller_9,Maharashtra,Floor Cleaner,Electronics,Prepaid,3751.25,6,FALSE,,48,34,1,3.1
+ORD_00746,05-04-2024,CUST_90,Reseller_12,Seller_6,Uttar Pradesh,Wall Sticker,Home Decor,COD,1705.45,12,FALSE,,75,63,1,4.7
+ORD_00747,01-04-2024,CUST_454,Reseller_5,Seller_5,Tamil Nadu,Wireless Mouse,Beauty,Prepaid,2127.96,8,TRUE,Wrong Item,18,8,1,3.5
+ORD_00748,26-05-2024,CUST_277,Reseller_18,Seller_8,Maharashtra,Electric Tandoor,Electronics,Prepaid,1815.75,12,TRUE,Wrong Item,81,76,1,3.9
+ORD_00749,20-05-2024,CUST_295,Reseller_3,Seller_7,Tamil Nadu,Pressure Cooker,Home Decor,Prepaid,4953.94,10,TRUE,Size Issue,1,0,0,4.8
+ORD_00750,26-02-2024,CUST_203,Reseller_11,Seller_4,Tamil Nadu,Hand Blender,Home Decor,COD,3699.5,7,FALSE,,67,55,1,4.1
+ORD_00751,06-05-2024,CUST_458,Reseller_4,Seller_7,Maharashtra,Floor Cleaner,Beauty,Prepaid,2350.22,5,FALSE,,65,62,1,2.8
+ORD_00752,16-03-2024,CUST_13,Reseller_8,Seller_5,Tamil Nadu,Nail Paint Kit,Fashion,COD,1164.83,12,TRUE,Damaged,3,3,1,4.8
+ORD_00753,27-06-2024,CUST_339,Reseller_3,Seller_3,Delhi,Mobile Stand,Home Decor,COD,4762.41,8,FALSE,,52,52,1,4.1
+ORD_00754,11-01-2024,CUST_326,Reseller_13,Seller_6,Karnataka,Casual Shirt,Beauty,COD,2228.34,11,FALSE,,79,61,1,3.3
+ORD_00755,26-01-2024,CUST_197,Reseller_16,Seller_1,Karnataka,Wall Shelf,Electronics,COD,1390.54,9,FALSE,,97,80,1,2.8
+ORD_00756,19-05-2024,CUST_45,Reseller_12,Seller_10,Tamil Nadu,Raincoat,Kitchen,Prepaid,1992.84,9,FALSE,,61,53,1,4.5
+ORD_00757,21-05-2024,CUST_18,Reseller_4,Seller_4,Tamil Nadu,Lipstick Set,Fashion,COD,1786.31,11,FALSE,,42,33,1,4.1
+ORD_00758,23-04-2024,CUST_400,Reseller_20,Seller_4,Tamil Nadu,Fruit Basket,Electronics,COD,3466.55,11,FALSE,,4,0,0,3.8
+ORD_00759,31-01-2024,CUST_25,Reseller_15,Seller_3,Karnataka,Non-Stick Pan,Kitchen,Prepaid,2032.66,10,FALSE,,33,15,1,4.7
+ORD_00760,20-01-2024,CUST_219,Reseller_6,Seller_8,Tamil Nadu,Cosmetic Pouch,Kitchen,COD,939.32,6,FALSE,,15,11,1,4.5
+ORD_00761,18-03-2024,CUST_396,Reseller_8,Seller_8,Delhi,Flower Vase,Electronics,COD,3760.97,12,FALSE,,49,48,1,2.9
+ORD_00762,24-05-2024,CUST_68,Reseller_19,Seller_6,Tamil Nadu,Smart Watch,Home Decor,COD,2306.63,3,TRUE,Damaged,95,76,1,3.3
+ORD_00763,09-01-2024,CUST_55,Reseller_12,Seller_8,Tamil Nadu,Cotton Kurti,Electronics,COD,2697.1,7,FALSE,,54,39,1,3.1
+ORD_00764,05-02-2024,CUST_206,Reseller_14,Seller_9,Delhi,Curtain Set,Electronics,COD,1424.46,12,FALSE,,65,58,1,4.4
+ORD_00765,02-05-2024,CUST_192,Reseller_3,Seller_3,Uttar Pradesh,Mobile Stand,Fashion,COD,1103.11,12,FALSE,,72,64,1,2.6
+ORD_00766,03-01-2024,CUST_383,Reseller_14,Seller_10,Delhi,Non-Stick Pan,Home Decor,COD,1276.4,4,FALSE,,90,78,1,3.9
+ORD_00767,24-02-2024,CUST_164,Reseller_1,Seller_9,Delhi,Kitchen Knife Set,Fashion,COD,1439.55,10,TRUE,Damaged,32,17,1,4.4
+ORD_00768,19-06-2024,CUST_440,Reseller_16,Seller_8,Maharashtra,Flower Vase,Electronics,COD,2031.11,12,FALSE,,10,6,1,4.7
+ORD_00769,27-02-2024,CUST_430,Reseller_3,Seller_3,Tamil Nadu,Pressure Cooker,Kitchen,COD,4938.7,11,TRUE,Late Delivery,81,70,1,3.4
+ORD_00770,25-04-2024,CUST_372,Reseller_14,Seller_1,Delhi,Hair Dryer,Electronics,Prepaid,3936.07,2,FALSE,,48,36,1,4.6
+ORD_00771,02-03-2024,CUST_387,Reseller_16,Seller_3,Uttar Pradesh,Casual Shirt,Home Decor,Prepaid,2621.3,8,FALSE,,82,77,1,2.8
+ORD_00772,13-06-2024,CUST_361,Reseller_16,Seller_5,Delhi,Casual Shirt,Kitchen,COD,299.93,3,FALSE,,100,96,1,4.6
+ORD_00773,19-03-2024,CUST_275,Reseller_13,Seller_5,Karnataka,Bluetooth Earbuds,Beauty,COD,4063.04,7,FALSE,,78,68,1,2.8
+ORD_00774,30-04-2024,CUST_403,Reseller_13,Seller_8,Uttar Pradesh,Washing Gloves,Kitchen,Prepaid,4628.75,11,FALSE,,74,70,1,3.5
+ORD_00775,01-06-2024,CUST_479,Reseller_11,Seller_8,Uttar Pradesh,Face Wash,Fashion,COD,3212.12,6,FALSE,,35,26,1,4.5
+ORD_00776,12-03-2024,CUST_172,Reseller_11,Seller_6,Maharashtra,Notebook Combo,Home Decor,COD,1840.29,6,FALSE,,67,54,1,2.9
+ORD_00777,21-05-2024,CUST_352,Reseller_7,Seller_7,Uttar Pradesh,Hair Dryer,Kitchen,Prepaid,825.5,6,FALSE,,47,30,1,3.1
+ORD_00778,27-03-2024,CUST_106,Reseller_19,Seller_8,Uttar Pradesh,Choker Necklace,Home Decor,COD,3664.27,6,FALSE,,77,57,1,4.3
+ORD_00779,04-06-2024,CUST_175,Reseller_8,Seller_6,Tamil Nadu,Smart Watch,Electronics,COD,1463.09,11,FALSE,,19,11,1,4.3
+ORD_00780,20-05-2024,CUST_131,Reseller_13,Seller_2,Uttar Pradesh,Non-Stick Pan,Beauty,Prepaid,165.85,5,FALSE,,64,50,1,4.1
+ORD_00781,01-05-2024,CUST_251,Reseller_19,Seller_9,Tamil Nadu,Electric Kettle,Beauty,COD,397.32,8,FALSE,,77,74,1,4.2
+ORD_00782,17-05-2024,CUST_143,Reseller_4,Seller_6,Maharashtra,Raincoat,Electronics,COD,1902.47,2,TRUE,Size Issue,14,0,0,3.9
+ORD_00783,13-03-2024,CUST_320,Reseller_14,Seller_2,Maharashtra,Curtain Set,Home Decor,COD,3352.44,2,TRUE,Wrong Item,93,85,1,3.1
+ORD_00784,21-05-2024,CUST_122,Reseller_8,Seller_4,Uttar Pradesh,Raincoat,Home Decor,Prepaid,3795.87,10,FALSE,,20,20,1,3.4
+ORD_00785,01-02-2024,CUST_499,Reseller_6,Seller_4,Tamil Nadu,Electric Kettle,Beauty,COD,3139.04,4,TRUE,No Return,35,20,1,3
+ORD_00786,02-03-2024,CUST_144,Reseller_8,Seller_7,Maharashtra,Bedsheet Double,Home Decor,COD,953.37,4,FALSE,,14,14,1,4.8
+ORD_00787,23-04-2024,CUST_210,Reseller_19,Seller_7,Uttar Pradesh,Hand Blender,Beauty,Prepaid,2313.9,5,TRUE,Size Issue,92,78,1,4
+ORD_00788,23-03-2024,CUST_405,Reseller_13,Seller_10,Delhi,Nail Paint Kit,Electronics,COD,1467.86,12,FALSE,,68,58,1,3.5
+ORD_00789,13-02-2024,CUST_308,Reseller_20,Seller_9,Tamil Nadu,Cotton Kurti,Electronics,Prepaid,3091.79,7,TRUE,Size Issue,90,78,1,3.7
+ORD_00790,07-01-2024,CUST_195,Reseller_11,Seller_4,Karnataka,Bluetooth Speaker,Home Decor,COD,1356.51,6,FALSE,,77,62,1,4.9
+ORD_00791,21-04-2024,CUST_196,Reseller_3,Seller_4,Tamil Nadu,Wall Shelf,Kitchen,Prepaid,256.11,11,FALSE,,3,0,0,2.9
+ORD_00792,13-02-2024,CUST_134,Reseller_3,Seller_7,Tamil Nadu,Hair Straightener,Electronics,COD,1258.5,7,FALSE,,62,57,1,4
+ORD_00793,10-02-2024,CUST_390,Reseller_20,Seller_9,Uttar Pradesh,Water Bottle,Kitchen,Prepaid,4252.63,8,FALSE,,30,28,1,3.8
+ORD_00794,17-02-2024,CUST_440,Reseller_2,Seller_9,Karnataka,Lipstick Set,Kitchen,COD,4670.25,9,TRUE,Damaged,56,48,1,4
+ORD_00795,18-04-2024,CUST_148,Reseller_6,Seller_5,Uttar Pradesh,Water Bottle,Electronics,COD,4378.28,11,TRUE,Damaged,71,56,1,2.5
+ORD_00796,01-02-2024,CUST_401,Reseller_7,Seller_1,Uttar Pradesh,T-shirt Combo,Home Decor,Prepaid,476.8,3,FALSE,,23,6,1,4.7
+ORD_00797,11-05-2024,CUST_167,Reseller_12,Seller_9,Maharashtra,Fruit Basket,Electronics,COD,4670.93,5,FALSE,,22,14,1,4.8
+ORD_00798,26-05-2024,CUST_124,Reseller_2,Seller_9,Tamil Nadu,Cotton Kurti,Kitchen,COD,384.47,4,FALSE,,78,67,1,3.9
+ORD_00799,06-04-2024,CUST_387,Reseller_15,Seller_4,Maharashtra,Curtain Set,Electronics,Prepaid,3610.13,4,FALSE,,6,4,1,4.2
+ORD_00800,29-04-2024,CUST_372,Reseller_15,Seller_5,Uttar Pradesh,Pressure Cooker,Fashion,Prepaid,3436,8,FALSE,,52,36,1,4.8
+ORD_00801,07-05-2024,CUST_209,Reseller_20,Seller_6,Uttar Pradesh,Electric Tandoor,Kitchen,Prepaid,3784.32,6,FALSE,,22,6,1,4.3
+ORD_00802,17-03-2024,CUST_212,Reseller_3,Seller_4,Uttar Pradesh,Pressure Cooker,Fashion,Prepaid,4233.44,3,FALSE,,49,37,1,2.9
+ORD_00803,15-06-2024,CUST_231,Reseller_16,Seller_6,Maharashtra,Kitchen Knife Set,Fashion,Prepaid,1195.52,12,FALSE,,76,72,1,3.9
+ORD_00804,05-04-2024,CUST_239,Reseller_5,Seller_4,Delhi,Yoga Mat,Electronics,Prepaid,4532.77,6,FALSE,,92,78,1,4
+ORD_00805,30-03-2024,CUST_152,Reseller_14,Seller_3,Delhi,Handbag,Electronics,COD,855.86,12,FALSE,,48,47,1,3.6
+ORD_00806,31-03-2024,CUST_479,Reseller_3,Seller_7,Uttar Pradesh,Wireless Mouse,Electronics,COD,4132.31,10,FALSE,,62,60,1,4.3
+ORD_00807,10-06-2024,CUST_13,Reseller_17,Seller_5,Maharashtra,Face Wash,Home Decor,COD,641.32,10,FALSE,,66,60,1,4.8
+ORD_00808,12-05-2024,CUST_146,Reseller_15,Seller_1,Tamil Nadu,Clutch Purse,Beauty,COD,3122.69,7,FALSE,,48,47,1,4.8
+ORD_00809,09-02-2024,CUST_290,Reseller_16,Seller_8,Tamil Nadu,Electric Kettle,Fashion,Prepaid,325.36,10,FALSE,,65,63,1,3.6
+ORD_00810,11-01-2024,CUST_142,Reseller_9,Seller_8,Maharashtra,Photo Frame,Beauty,COD,4587.72,3,FALSE,,51,44,1,2.8
+ORD_00811,01-01-2024,CUST_291,Reseller_5,Seller_1,Maharashtra,Bluetooth Earbuds,Beauty,COD,1089.27,4,FALSE,,33,27,1,5
+ORD_00812,20-06-2024,CUST_253,Reseller_9,Seller_1,Tamil Nadu,Non-Stick Pan,Home Decor,Prepaid,1212.61,4,FALSE,,15,13,1,4.6
+ORD_00813,10-06-2024,CUST_462,Reseller_12,Seller_10,Tamil Nadu,Wireless Mouse,Beauty,Prepaid,1401.7,10,FALSE,,95,85,1,2.8
+ORD_00814,21-04-2024,CUST_126,Reseller_5,Seller_9,Uttar Pradesh,Hand Blender,Beauty,COD,1502.98,11,FALSE,,29,29,1,4.8
+ORD_00815,07-02-2024,CUST_154,Reseller_17,Seller_6,Karnataka,Washing Gloves,Beauty,COD,3662.74,8,TRUE,No Return,33,30,1,4.7
+ORD_00816,17-04-2024,CUST_212,Reseller_8,Seller_4,Tamil Nadu,Measuring Cups,Home Decor,Prepaid,4641.35,10,FALSE,,96,84,1,3.8
+ORD_00817,13-04-2024,CUST_475,Reseller_3,Seller_5,Maharashtra,Floor Cleaner,Beauty,COD,2483.69,12,TRUE,Wrong Item,8,0,0,4
+ORD_00818,30-05-2024,CUST_451,Reseller_16,Seller_7,Delhi,Raincoat,Home Decor,COD,1946.34,6,FALSE,,63,51,1,3.5
+ORD_00819,26-01-2024,CUST_304,Reseller_8,Seller_7,Karnataka,Handbag,Electronics,COD,4051.97,7,TRUE,Wrong Item,49,47,1,2.6
+ORD_00820,09-01-2024,CUST_2,Reseller_5,Seller_1,Uttar Pradesh,Lipstick Set,Fashion,COD,4498.42,12,TRUE,Size Issue,61,56,1,3.3
+ORD_00821,11-01-2024,CUST_20,Reseller_12,Seller_6,Uttar Pradesh,Pressure Cooker,Beauty,COD,951.32,6,FALSE,,75,73,1,4.5
+ORD_00822,05-06-2024,CUST_316,Reseller_6,Seller_4,Tamil Nadu,Diya Set,Fashion,Prepaid,2528.25,6,FALSE,,68,66,1,2.5
+ORD_00823,09-01-2024,CUST_115,Reseller_15,Seller_2,Uttar Pradesh,Toaster,Home Decor,Prepaid,913.36,10,TRUE,No Return,89,80,1,3.3
+ORD_00824,01-03-2024,CUST_418,Reseller_16,Seller_3,Tamil Nadu,Bluetooth Speaker,Beauty,COD,2618.05,6,FALSE,,52,39,1,3.5
+ORD_00825,02-02-2024,CUST_76,Reseller_8,Seller_4,Tamil Nadu,Yoga Mat,Beauty,COD,902.81,3,TRUE,Size Issue,14,0,0,3.8
+ORD_00826,30-05-2024,CUST_477,Reseller_11,Seller_5,Karnataka,Nail Paint Kit,Fashion,COD,3635.41,8,FALSE,,83,66,1,4.8
+ORD_00827,28-04-2024,CUST_200,Reseller_2,Seller_8,Karnataka,Yoga Mat,Home Decor,COD,1078.72,3,TRUE,Wrong Item,24,9,1,3.4
+ORD_00828,28-06-2024,CUST_491,Reseller_15,Seller_6,Maharashtra,Hand Blender,Electronics,Prepaid,3764.61,8,FALSE,,97,79,1,3.4
+ORD_00829,06-05-2024,CUST_123,Reseller_9,Seller_3,Tamil Nadu,Smart Watch,Fashion,COD,4396.28,7,TRUE,Damaged,66,47,1,4.3
+ORD_00830,27-01-2024,CUST_191,Reseller_14,Seller_3,Delhi,Curtain Set,Home Decor,Prepaid,3212.96,7,FALSE,,44,44,1,3.6
+ORD_00831,05-06-2024,CUST_201,Reseller_7,Seller_4,Maharashtra,Washing Gloves,Kitchen,COD,3344.53,10,FALSE,,68,50,1,3.1
+ORD_00832,13-03-2024,CUST_387,Reseller_2,Seller_7,Tamil Nadu,Diya Set,Home Decor,Prepaid,3016.23,6,FALSE,,59,58,1,3.6
+ORD_00833,21-03-2024,CUST_312,Reseller_19,Seller_7,Delhi,Face Wash,Fashion,COD,4409.44,9,FALSE,,74,67,1,2.9
+ORD_00834,08-03-2024,CUST_297,Reseller_9,Seller_8,Karnataka,Electric Kettle,Home Decor,Prepaid,4283,5,FALSE,,33,21,1,2.9
+ORD_00835,17-05-2024,CUST_491,Reseller_2,Seller_4,Maharashtra,Silk Saree,Kitchen,Prepaid,2328.86,8,TRUE,Size Issue,10,2,1,3.7
+ORD_00836,14-03-2024,CUST_110,Reseller_17,Seller_1,Karnataka,Wall Sticker,Electronics,Prepaid,3367.07,9,FALSE,,69,52,1,3.5
+ORD_00837,25-03-2024,CUST_351,Reseller_13,Seller_4,Uttar Pradesh,Fruit Basket,Fashion,Prepaid,1009.6,12,FALSE,,55,53,1,4.8
+ORD_00838,11-02-2024,CUST_344,Reseller_1,Seller_8,Delhi,Electric Tandoor,Home Decor,COD,3784.64,6,TRUE,Wrong Item,33,20,1,3.4
+ORD_00839,09-02-2024,CUST_328,Reseller_12,Seller_3,Delhi,Raincoat,Home Decor,Prepaid,1550.58,10,FALSE,,9,7,1,4
+ORD_00840,29-04-2024,CUST_257,Reseller_3,Seller_4,Karnataka,Mobile Stand,Fashion,Prepaid,699.85,9,FALSE,,99,82,1,4.1
+ORD_00841,05-03-2024,CUST_199,Reseller_20,Seller_8,Karnataka,Notebook Combo,Fashion,Prepaid,1877.86,3,FALSE,,25,8,1,2.5
+ORD_00842,10-06-2024,CUST_274,Reseller_3,Seller_10,Delhi,Hair Straightener,Fashion,COD,1809.19,10,FALSE,,25,10,1,4.2
+ORD_00843,03-05-2024,CUST_98,Reseller_13,Seller_6,Tamil Nadu,Makeup Brushes,Fashion,COD,2635.24,8,FALSE,,80,60,1,2.9
+ORD_00844,25-04-2024,CUST_102,Reseller_8,Seller_2,Tamil Nadu,Fruit Basket,Kitchen,COD,2370.59,7,FALSE,,6,5,1,4.9
+ORD_00845,28-04-2024,CUST_384,Reseller_12,Seller_10,Delhi,Flower Vase,Fashion,Prepaid,4679.51,12,FALSE,,1,0,0,2.9
+ORD_00846,31-01-2024,CUST_284,Reseller_20,Seller_2,Uttar Pradesh,Lipstick Set,Home Decor,COD,715,4,FALSE,,71,61,1,3.5
+ORD_00847,27-06-2024,CUST_29,Reseller_8,Seller_6,Karnataka,Diya Set,Fashion,COD,2214.36,2,FALSE,,39,35,1,2.7
+ORD_00848,14-04-2024,CUST_256,Reseller_9,Seller_3,Karnataka,Hair Dryer,Electronics,Prepaid,4909.35,10,FALSE,,40,31,1,5
+ORD_00849,30-01-2024,CUST_437,Reseller_11,Seller_5,Maharashtra,Cotton Kurti,Fashion,Prepaid,4367.1,10,FALSE,,13,2,1,3.8
+ORD_00850,18-05-2024,CUST_142,Reseller_11,Seller_6,Delhi,Bedsheet Double,Beauty,COD,1179.71,3,FALSE,,40,23,1,4
+ORD_00851,17-04-2024,CUST_386,Reseller_18,Seller_10,Karnataka,Lipstick Set,Kitchen,Prepaid,3340.81,3,FALSE,,6,0,0,2.7
+ORD_00852,13-04-2024,CUST_22,Reseller_2,Seller_5,Maharashtra,Lipstick Set,Beauty,COD,4752.57,11,TRUE,Late Delivery,61,50,1,4.4
+ORD_00853,28-06-2024,CUST_95,Reseller_6,Seller_5,Uttar Pradesh,Wall Sticker,Fashion,Prepaid,4490.87,5,TRUE,Damaged,84,66,1,3
+ORD_00854,10-03-2024,CUST_209,Reseller_7,Seller_8,Maharashtra,Bedsheet Double,Fashion,COD,4792.86,12,FALSE,,1,0,0,4.7
+ORD_00855,29-03-2024,CUST_423,Reseller_18,Seller_8,Maharashtra,Floor Cleaner,Home Decor,COD,1173.39,12,FALSE,,68,59,1,3
+ORD_00856,07-05-2024,CUST_131,Reseller_14,Seller_10,Uttar Pradesh,Pressure Cooker,Electronics,COD,1357.8,3,FALSE,,83,64,1,3
+ORD_00857,20-06-2024,CUST_329,Reseller_19,Seller_7,Maharashtra,Silk Saree,Fashion,Prepaid,3502.8,11,FALSE,,75,72,1,2.6
+ORD_00858,29-01-2024,CUST_495,Reseller_8,Seller_1,Maharashtra,LED Strip Light,Home Decor,Prepaid,3696.57,12,FALSE,,28,20,1,3.7
+ORD_00859,15-04-2024,CUST_445,Reseller_4,Seller_4,Delhi,Floor Cleaner,Fashion,COD,1805.58,9,TRUE,Size Issue,48,38,1,3.9
+ORD_00860,05-05-2024,CUST_446,Reseller_15,Seller_5,Maharashtra,Photo Frame,Kitchen,Prepaid,857.69,8,FALSE,,86,79,1,2.7
+ORD_00861,14-05-2024,CUST_427,Reseller_2,Seller_7,Karnataka,Essential Oils,Beauty,COD,2398.38,2,FALSE,,8,0,0,4.4
+ORD_00862,17-01-2024,CUST_243,Reseller_4,Seller_7,Karnataka,Toaster,Home Decor,COD,1504.74,8,FALSE,,98,82,1,3.6
+ORD_00863,11-02-2024,CUST_494,Reseller_10,Seller_6,Maharashtra,Electric Kettle,Electronics,COD,3488.89,6,FALSE,,50,42,1,3.8
+ORD_00864,13-06-2024,CUST_486,Reseller_5,Seller_8,Delhi,Washing Gloves,Home Decor,Prepaid,3279.32,8,FALSE,,71,55,1,3.6
+ORD_00865,06-01-2024,CUST_159,Reseller_12,Seller_5,Uttar Pradesh,Nail Paint Kit,Fashion,COD,629.35,12,FALSE,,96,84,1,3.5
+ORD_00866,15-05-2024,CUST_439,Reseller_8,Seller_2,Karnataka,Non-Stick Pan,Kitchen,COD,1334.83,12,FALSE,,79,61,1,3.9
+ORD_00867,19-02-2024,CUST_175,Reseller_1,Seller_9,Maharashtra,Smart Watch,Electronics,Prepaid,1737.78,10,FALSE,,1,0,0,2.9
+ORD_00868,24-05-2024,CUST_343,Reseller_14,Seller_5,Karnataka,Smart Watch,Fashion,Prepaid,1468.92,5,FALSE,,78,60,1,3
+ORD_00869,16-05-2024,CUST_183,Reseller_16,Seller_7,Uttar Pradesh,Makeup Brushes,Fashion,COD,1337.69,2,FALSE,,61,54,1,4.7
+ORD_00870,22-02-2024,CUST_119,Reseller_14,Seller_4,Uttar Pradesh,Face Wash,Electronics,COD,519.9,11,FALSE,,53,52,1,4.9
+ORD_00871,25-02-2024,CUST_114,Reseller_3,Seller_9,Delhi,Wireless Mouse,Electronics,Prepaid,4883.25,9,FALSE,,95,89,1,3.4
+ORD_00872,24-01-2024,CUST_456,Reseller_9,Seller_1,Delhi,Kitchen Knife Set,Fashion,Prepaid,2134.32,6,FALSE,,58,52,1,3.2
+ORD_00873,12-01-2024,CUST_481,Reseller_4,Seller_10,Delhi,Face Wash,Home Decor,Prepaid,3986.83,10,FALSE,,98,91,1,4.1
+ORD_00874,23-01-2024,CUST_455,Reseller_6,Seller_9,Delhi,Washing Gloves,Beauty,Prepaid,2524.31,5,FALSE,,43,40,1,3.5
+ORD_00875,07-01-2024,CUST_285,Reseller_19,Seller_4,Karnataka,Notebook Combo,Kitchen,COD,3527.44,7,FALSE,,90,85,1,2.6
+ORD_00876,23-02-2024,CUST_376,Reseller_1,Seller_10,Karnataka,Digital Thermometer,Fashion,COD,4138.22,5,FALSE,,23,17,1,2.9
+ORD_00877,24-06-2024,CUST_188,Reseller_15,Seller_5,Delhi,Flower Vase,Home Decor,Prepaid,1244.28,4,TRUE,Damaged,81,72,1,4.3
+ORD_00878,22-01-2024,CUST_351,Reseller_6,Seller_2,Tamil Nadu,Raincoat,Home Decor,COD,981.17,2,FALSE,,54,51,1,4.1
+ORD_00879,22-06-2024,CUST_267,Reseller_3,Seller_4,Maharashtra,Face Roller,Home Decor,COD,2257.9,4,FALSE,,92,75,1,2.6
+ORD_00880,14-02-2024,CUST_111,Reseller_11,Seller_10,Tamil Nadu,Clutch Purse,Kitchen,COD,4986.51,10,FALSE,,58,45,1,3.1
+ORD_00881,29-04-2024,CUST_152,Reseller_11,Seller_5,Karnataka,Diya Set,Electronics,Prepaid,4642.13,2,FALSE,,49,32,1,3.1
+ORD_00882,04-02-2024,CUST_203,Reseller_5,Seller_2,Delhi,Lipstick Set,Kitchen,COD,3546.31,3,FALSE,,84,66,1,4.2
+ORD_00883,02-03-2024,CUST_311,Reseller_18,Seller_3,Maharashtra,Wall Clock,Kitchen,Prepaid,1316.34,2,FALSE,,70,68,1,2.5
+ORD_00884,19-04-2024,CUST_424,Reseller_11,Seller_2,Uttar Pradesh,Wall Sticker,Kitchen,COD,1409.34,7,FALSE,,23,22,1,2.8
+ORD_00885,23-03-2024,CUST_325,Reseller_8,Seller_3,Delhi,Essential Oils,Home Decor,COD,3180.47,3,FALSE,,70,68,1,4.5
+ORD_00886,22-01-2024,CUST_354,Reseller_11,Seller_5,Delhi,Wireless Mouse,Home Decor,COD,205.92,2,FALSE,,4,4,1,2.9
+ORD_00887,05-04-2024,CUST_458,Reseller_3,Seller_10,Delhi,Choker Necklace,Home Decor,Prepaid,2481.78,3,FALSE,,69,49,1,4.1
+ORD_00888,10-02-2024,CUST_386,Reseller_5,Seller_1,Karnataka,Wall Clock,Kitchen,COD,3410.07,10,FALSE,,38,30,1,3.1
+ORD_00889,14-03-2024,CUST_40,Reseller_20,Seller_3,Uttar Pradesh,Lipstick Set,Kitchen,COD,1542.84,10,FALSE,,20,15,1,2.7
+ORD_00890,03-03-2024,CUST_26,Reseller_11,Seller_1,Tamil Nadu,Notebook Combo,Kitchen,COD,2609.65,9,TRUE,No Return,1,0,0,3.1
+ORD_00891,15-04-2024,CUST_289,Reseller_3,Seller_6,Karnataka,Photo Frame,Beauty,Prepaid,1484.13,4,FALSE,,16,9,1,4.3
+ORD_00892,11-01-2024,CUST_402,Reseller_8,Seller_9,Karnataka,Nail Paint Kit,Beauty,COD,387.64,6,FALSE,,74,62,1,4.6
+ORD_00893,08-06-2024,CUST_317,Reseller_2,Seller_8,Tamil Nadu,Measuring Cups,Fashion,COD,2139.39,11,FALSE,,46,46,1,4.6
+ORD_00894,22-05-2024,CUST_130,Reseller_5,Seller_3,Delhi,Fruit Basket,Kitchen,COD,4039.67,3,FALSE,,68,65,1,3.5
+ORD_00895,15-05-2024,CUST_194,Reseller_9,Seller_5,Maharashtra,Clutch Purse,Fashion,COD,2447.16,5,FALSE,,92,86,1,4.2
+ORD_00896,13-05-2024,CUST_152,Reseller_9,Seller_7,Maharashtra,Electric Tandoor,Fashion,COD,467.82,8,FALSE,,93,88,1,3
+ORD_00897,24-02-2024,CUST_372,Reseller_10,Seller_7,Maharashtra,Floor Cleaner,Beauty,COD,4415.31,4,FALSE,,68,55,1,3.2
+ORD_00898,31-03-2024,CUST_324,Reseller_3,Seller_5,Tamil Nadu,Bedsheet Double,Beauty,Prepaid,4136.88,6,FALSE,,50,45,1,4.7
+ORD_00899,16-03-2024,CUST_279,Reseller_2,Seller_5,Maharashtra,Face Roller,Beauty,COD,1261.03,12,FALSE,,88,83,1,2.5
+ORD_00900,06-01-2024,CUST_492,Reseller_16,Seller_2,Tamil Nadu,Flower Vase,Fashion,COD,3991.65,6,FALSE,,68,52,1,2.7
+ORD_00901,29-04-2024,CUST_142,Reseller_12,Seller_2,Maharashtra,Fruit Basket,Home Decor,COD,2579.7,4,FALSE,,43,39,1,3
+ORD_00902,31-03-2024,CUST_470,Reseller_2,Seller_6,Karnataka,Diya Set,Fashion,Prepaid,428.99,6,FALSE,,28,22,1,2.6
+ORD_00903,25-01-2024,CUST_413,Reseller_19,Seller_5,Karnataka,Flower Vase,Kitchen,Prepaid,742.58,5,FALSE,,14,12,1,3
+ORD_00904,10-06-2024,CUST_124,Reseller_17,Seller_8,Tamil Nadu,Rice Container,Kitchen,Prepaid,3968.76,10,TRUE,Damaged,76,74,1,4
+ORD_00905,22-01-2024,CUST_438,Reseller_7,Seller_8,Maharashtra,Wall Shelf,Home Decor,COD,1716.65,5,TRUE,Late Delivery,5,3,1,3.6
+ORD_00906,03-01-2024,CUST_399,Reseller_16,Seller_9,Karnataka,Face Roller,Kitchen,Prepaid,612.24,10,FALSE,,71,55,1,4.7
+ORD_00907,04-01-2024,CUST_429,Reseller_1,Seller_4,Delhi,Silk Saree,Home Decor,COD,1772.75,8,TRUE,Damaged,77,61,1,4.5
+ORD_00908,23-06-2024,CUST_470,Reseller_16,Seller_6,Tamil Nadu,LED Strip Light,Electronics,COD,1525.7,11,TRUE,Late Delivery,1,0,0,3.4
+ORD_00909,12-06-2024,CUST_414,Reseller_20,Seller_6,Karnataka,Handbag,Electronics,COD,431.03,6,FALSE,,16,0,0,3.1
+ORD_00910,05-02-2024,CUST_430,Reseller_4,Seller_5,Uttar Pradesh,Fruit Basket,Kitchen,COD,1272.05,10,FALSE,,4,0,0,3.4
+ORD_00911,27-03-2024,CUST_232,Reseller_6,Seller_4,Maharashtra,Face Roller,Electronics,Prepaid,3091.86,10,TRUE,Damaged,36,26,1,4
+ORD_00912,03-04-2024,CUST_209,Reseller_9,Seller_2,Delhi,Men's Jeans,Fashion,Prepaid,4307.79,6,TRUE,No Return,96,95,1,3.2
+ORD_00913,19-04-2024,CUST_50,Reseller_8,Seller_6,Tamil Nadu,Travel Backpack,Fashion,Prepaid,2229.05,2,FALSE,,15,11,1,4.1
+ORD_00914,08-04-2024,CUST_312,Reseller_7,Seller_1,Delhi,Fruit Basket,Fashion,COD,1135.43,8,FALSE,,12,12,1,3.5
+ORD_00915,20-04-2024,CUST_175,Reseller_11,Seller_2,Maharashtra,Nail Paint Kit,Electronics,COD,1001.21,5,FALSE,,46,45,1,3.9
+ORD_00916,08-06-2024,CUST_288,Reseller_14,Seller_3,Uttar Pradesh,Notebook Combo,Kitchen,COD,3187.93,9,FALSE,,83,79,1,3.6
+ORD_00917,28-03-2024,CUST_230,Reseller_10,Seller_5,Delhi,Handbag,Kitchen,COD,1624.43,10,TRUE,No Return,100,94,1,3.2
+ORD_00918,14-01-2024,CUST_315,Reseller_18,Seller_8,Uttar Pradesh,Yoga Mat,Home Decor,COD,373.68,5,FALSE,,93,90,1,4.9
+ORD_00919,26-05-2024,CUST_34,Reseller_1,Seller_8,Uttar Pradesh,Bedsheet Double,Beauty,Prepaid,2610.89,11,FALSE,,38,29,1,4.4
+ORD_00920,08-06-2024,CUST_320,Reseller_9,Seller_8,Uttar Pradesh,Smart Watch,Fashion,Prepaid,2103.85,11,FALSE,,81,68,1,2.9
+ORD_00921,13-05-2024,CUST_438,Reseller_18,Seller_5,Uttar Pradesh,Floor Cleaner,Electronics,Prepaid,3768.19,12,FALSE,,59,57,1,4.7
+ORD_00922,08-05-2024,CUST_53,Reseller_12,Seller_9,Uttar Pradesh,Toaster,Home Decor,COD,4766.89,5,TRUE,No Return,38,38,1,3.7
+ORD_00923,13-04-2024,CUST_73,Reseller_7,Seller_10,Maharashtra,Yoga Mat,Kitchen,Prepaid,675.52,5,FALSE,,100,87,1,4.7
+ORD_00924,08-01-2024,CUST_235,Reseller_14,Seller_1,Uttar Pradesh,Floor Cleaner,Kitchen,Prepaid,4951.61,9,TRUE,Size Issue,98,85,1,4.5
+ORD_00925,02-04-2024,CUST_113,Reseller_7,Seller_3,Karnataka,Electric Tandoor,Electronics,COD,4974.26,5,FALSE,,42,23,1,3.6
+ORD_00926,18-06-2024,CUST_460,Reseller_5,Seller_9,Uttar Pradesh,Electric Tandoor,Home Decor,Prepaid,4204.46,6,FALSE,,45,32,1,2.6
+ORD_00927,22-06-2024,CUST_391,Reseller_20,Seller_10,Tamil Nadu,Mobile Stand,Home Decor,COD,2813.87,4,FALSE,,46,29,1,3.2
+ORD_00928,23-05-2024,CUST_473,Reseller_3,Seller_5,Uttar Pradesh,Nail Paint Kit,Electronics,COD,1984.74,8,FALSE,,28,28,1,3.9
+ORD_00929,19-02-2024,CUST_385,Reseller_5,Seller_2,Maharashtra,Washing Gloves,Electronics,Prepaid,1671.42,7,FALSE,,16,8,1,4.1
+ORD_00930,08-01-2024,CUST_140,Reseller_18,Seller_7,Maharashtra,Fruit Basket,Beauty,COD,4011.98,6,FALSE,,81,80,1,3.1
+ORD_00931,15-01-2024,CUST_454,Reseller_1,Seller_4,Delhi,T-shirt Combo,Electronics,Prepaid,2642.41,11,FALSE,,50,48,1,2.8
+ORD_00932,17-01-2024,CUST_497,Reseller_7,Seller_9,Delhi,Mobile Stand,Electronics,COD,1087.66,11,FALSE,,4,3,1,4.6
+ORD_00933,14-04-2024,CUST_165,Reseller_20,Seller_1,Karnataka,Photo Frame,Kitchen,COD,3204.83,3,FALSE,,7,0,0,5
+ORD_00934,10-03-2024,CUST_113,Reseller_7,Seller_9,Uttar Pradesh,Fruit Basket,Home Decor,Prepaid,3264.06,12,TRUE,Wrong Item,82,74,1,3.8
+ORD_00935,20-06-2024,CUST_372,Reseller_15,Seller_8,Uttar Pradesh,Cotton Kurti,Electronics,COD,937.21,9,FALSE,,52,39,1,2.9
+ORD_00936,13-01-2024,CUST_423,Reseller_12,Seller_3,Delhi,Pressure Cooker,Kitchen,COD,596.54,9,FALSE,,61,49,1,3.2
+ORD_00937,21-02-2024,CUST_35,Reseller_3,Seller_10,Karnataka,T-shirt Combo,Kitchen,COD,4692.39,12,FALSE,,25,19,1,2.5
+ORD_00938,29-04-2024,CUST_493,Reseller_5,Seller_2,Karnataka,Wireless Mouse,Home Decor,COD,4663.46,5,FALSE,,52,49,1,4.8
+ORD_00939,01-01-2024,CUST_41,Reseller_1,Seller_8,Maharashtra,Wall Sticker,Fashion,Prepaid,4510.7,4,FALSE,,78,73,1,2.8
+ORD_00940,06-04-2024,CUST_280,Reseller_14,Seller_4,Maharashtra,Photo Frame,Fashion,Prepaid,4900.79,7,TRUE,Late Delivery,74,63,1,3.9
+ORD_00941,28-05-2024,CUST_26,Reseller_15,Seller_4,Delhi,Mobile Stand,Home Decor,Prepaid,2794.17,6,FALSE,,93,88,1,3.2
+ORD_00942,25-04-2024,CUST_146,Reseller_13,Seller_3,Karnataka,Choker Necklace,Fashion,COD,4869.43,3,FALSE,,7,0,0,3.9
+ORD_00943,13-02-2024,CUST_256,Reseller_13,Seller_2,Tamil Nadu,Handbag,Beauty,COD,4649.27,9,FALSE,,86,70,1,4.1
+ORD_00944,19-02-2024,CUST_94,Reseller_6,Seller_1,Delhi,Smart Watch,Fashion,Prepaid,4487.19,11,FALSE,,14,0,0,4.6
+ORD_00945,29-02-2024,CUST_352,Reseller_6,Seller_7,Uttar Pradesh,Hair Dryer,Kitchen,COD,3712.56,9,FALSE,,78,64,1,3
+ORD_00946,27-03-2024,CUST_164,Reseller_18,Seller_4,Maharashtra,Face Roller,Electronics,Prepaid,4263.17,4,FALSE,,53,53,1,2.5
+ORD_00947,02-05-2024,CUST_349,Reseller_1,Seller_8,Tamil Nadu,Water Bottle,Kitchen,Prepaid,3004.77,12,FALSE,,16,2,1,2.8
+ORD_00948,06-04-2024,CUST_8,Reseller_16,Seller_7,Maharashtra,Cosmetic Pouch,Fashion,Prepaid,2663.65,4,FALSE,,47,47,1,4.8
+ORD_00949,04-01-2024,CUST_348,Reseller_6,Seller_2,Maharashtra,Wall Sticker,Home Decor,COD,1844.12,12,TRUE,Late Delivery,85,74,1,4.7
+ORD_00950,19-01-2024,CUST_268,Reseller_15,Seller_9,Delhi,Fruit Basket,Beauty,Prepaid,2113.93,4,FALSE,,84,79,1,4
+ORD_00951,01-03-2024,CUST_274,Reseller_19,Seller_6,Tamil Nadu,Floor Cleaner,Home Decor,Prepaid,3811.57,2,FALSE,,99,91,1,4
+ORD_00952,03-06-2024,CUST_436,Reseller_18,Seller_10,Karnataka,Raincoat,Kitchen,Prepaid,4360.18,4,TRUE,Size Issue,43,42,1,4.2
+ORD_00953,05-06-2024,CUST_153,Reseller_14,Seller_9,Uttar Pradesh,Cosmetic Pouch,Home Decor,Prepaid,1366.24,6,FALSE,,78,68,1,2.9
+ORD_00954,26-06-2024,CUST_415,Reseller_3,Seller_2,Karnataka,Notebook Combo,Kitchen,COD,3186.42,10,FALSE,,97,96,1,4.8
+ORD_00955,07-01-2024,CUST_101,Reseller_12,Seller_2,Maharashtra,Electric Tandoor,Electronics,COD,2788.25,9,FALSE,,70,65,1,3.5
+ORD_00956,16-05-2024,CUST_237,Reseller_13,Seller_5,Delhi,Diya Set,Electronics,Prepaid,457.88,12,FALSE,,64,45,1,3.5
+ORD_00957,12-05-2024,CUST_79,Reseller_5,Seller_9,Uttar Pradesh,Essential Oils,Electronics,COD,2266.85,9,FALSE,,17,7,1,3.8
+ORD_00958,04-04-2024,CUST_350,Reseller_2,Seller_8,Uttar Pradesh,Floor Cleaner,Home Decor,COD,2693.28,8,FALSE,,81,74,1,2.6
+ORD_00959,12-02-2024,CUST_20,Reseller_12,Seller_1,Tamil Nadu,Wall Clock,Beauty,COD,3154.76,12,FALSE,,4,1,1,2.9
+ORD_00960,05-02-2024,CUST_304,Reseller_11,Seller_3,Karnataka,Curtain Set,Kitchen,COD,1035.4,10,FALSE,,51,45,1,4.3
+ORD_00961,26-02-2024,CUST_434,Reseller_6,Seller_5,Maharashtra,Makeup Brushes,Kitchen,Prepaid,795.52,10,FALSE,,35,23,1,2.7
+ORD_00962,27-03-2024,CUST_168,Reseller_4,Seller_10,Karnataka,Flower Vase,Kitchen,COD,1414.53,12,FALSE,,24,7,1,4
+ORD_00963,28-03-2024,CUST_114,Reseller_11,Seller_3,Tamil Nadu,Hair Straightener,Electronics,COD,2940.9,8,FALSE,,89,82,1,3.1
+ORD_00964,07-01-2024,CUST_201,Reseller_4,Seller_6,Maharashtra,Clutch Purse,Kitchen,Prepaid,4706.96,3,FALSE,,48,37,1,3.5
+ORD_00965,07-03-2024,CUST_388,Reseller_9,Seller_9,Tamil Nadu,Electric Tandoor,Electronics,Prepaid,2859.62,2,FALSE,,63,54,1,3.2
+ORD_00966,02-06-2024,CUST_39,Reseller_10,Seller_4,Uttar Pradesh,Water Bottle,Fashion,COD,3425.82,10,FALSE,,15,0,0,3.4
+ORD_00967,23-02-2024,CUST_20,Reseller_7,Seller_1,Uttar Pradesh,Washing Gloves,Home Decor,Prepaid,1768.03,5,FALSE,,12,1,1,4.3
+ORD_00968,03-04-2024,CUST_111,Reseller_11,Seller_2,Karnataka,Bluetooth Speaker,Beauty,COD,1734.82,7,FALSE,,94,89,1,3.2
+ORD_00969,09-03-2024,CUST_24,Reseller_16,Seller_7,Uttar Pradesh,Diya Set,Home Decor,COD,4024.2,9,FALSE,,3,0,0,3.9
+ORD_00970,14-05-2024,CUST_486,Reseller_3,Seller_5,Delhi,Nail Paint Kit,Fashion,Prepaid,1010.03,8,FALSE,,16,0,0,3.7
+ORD_00971,12-04-2024,CUST_270,Reseller_20,Seller_1,Maharashtra,Washing Gloves,Kitchen,Prepaid,182.62,7,TRUE,No Return,72,61,1,4.2
+ORD_00972,17-05-2024,CUST_406,Reseller_18,Seller_6,Tamil Nadu,T-shirt Combo,Home Decor,COD,4784.4,11,FALSE,,97,83,1,4.8
+ORD_00973,18-05-2024,CUST_458,Reseller_6,Seller_5,Maharashtra,Ceiling Lamp,Beauty,COD,1788.77,7,FALSE,,86,78,1,4.3
+ORD_00974,06-06-2024,CUST_258,Reseller_14,Seller_10,Karnataka,Travel Backpack,Beauty,Prepaid,1689.04,11,FALSE,,17,8,1,3
+ORD_00975,30-05-2024,CUST_191,Reseller_11,Seller_7,Delhi,Mobile Stand,Fashion,COD,4277.41,2,TRUE,Wrong Item,82,75,1,2.6
+ORD_00976,23-02-2024,CUST_445,Reseller_8,Seller_2,Maharashtra,Electric Tandoor,Home Decor,Prepaid,4155.21,3,FALSE,,41,39,1,3.2
+ORD_00977,13-03-2024,CUST_94,Reseller_16,Seller_6,Delhi,Silk Saree,Beauty,COD,3222.08,8,FALSE,,88,85,1,4
+ORD_00978,22-04-2024,CUST_217,Reseller_17,Seller_9,Uttar Pradesh,Yoga Mat,Beauty,COD,2994.2,9,TRUE,Damaged,58,38,1,2.6
+ORD_00979,14-05-2024,CUST_148,Reseller_5,Seller_7,Delhi,Hair Straightener,Beauty,COD,4252.92,4,FALSE,,27,25,1,3.7
+ORD_00980,09-06-2024,CUST_450,Reseller_4,Seller_9,Maharashtra,Handbag,Home Decor,COD,455.14,5,FALSE,,83,83,1,4
+ORD_00981,22-02-2024,CUST_135,Reseller_2,Seller_2,Tamil Nadu,Yoga Mat,Kitchen,Prepaid,4444.59,10,FALSE,,63,58,1,3.3
+ORD_00982,15-02-2024,CUST_45,Reseller_12,Seller_8,Delhi,Rice Container,Kitchen,COD,3869.63,8,FALSE,,86,72,1,4.4
+ORD_00983,09-02-2024,CUST_248,Reseller_15,Seller_8,Karnataka,Smart Watch,Beauty,COD,4870.49,10,FALSE,,18,6,1,2.8
+ORD_00984,02-03-2024,CUST_196,Reseller_5,Seller_6,Uttar Pradesh,Floor Cleaner,Fashion,COD,4110.84,12,FALSE,,85,68,1,2.7
+ORD_00985,24-06-2024,CUST_90,Reseller_2,Seller_7,Uttar Pradesh,Hair Straightener,Fashion,Prepaid,3633.7,3,FALSE,,9,0,0,4.3
+ORD_00986,25-05-2024,CUST_89,Reseller_7,Seller_8,Uttar Pradesh,Handbag,Home Decor,Prepaid,4838.11,2,FALSE,,20,2,1,3.7
+ORD_00987,01-03-2024,CUST_39,Reseller_6,Seller_7,Delhi,Diya Set,Home Decor,Prepaid,4027.1,12,FALSE,,82,73,1,4.2
+ORD_00988,22-03-2024,CUST_439,Reseller_8,Seller_3,Maharashtra,Measuring Cups,Kitchen,COD,1913.91,5,FALSE,,70,64,1,3.6
+ORD_00989,04-03-2024,CUST_414,Reseller_14,Seller_5,Delhi,Measuring Cups,Beauty,COD,3276.34,9,FALSE,,51,42,1,3.1
+ORD_00990,24-04-2024,CUST_372,Reseller_9,Seller_6,Karnataka,Cotton Kurti,Kitchen,COD,4772.43,9,FALSE,,15,10,1,4.5
+ORD_00991,14-05-2024,CUST_342,Reseller_1,Seller_8,Maharashtra,Casual Shirt,Kitchen,COD,2284.69,4,TRUE,Damaged,77,63,1,4.5
+ORD_00992,04-02-2024,CUST_77,Reseller_16,Seller_4,Karnataka,Essential Oils,Fashion,COD,4763.49,10,FALSE,,4,1,1,4.2
+ORD_00993,12-05-2024,CUST_251,Reseller_18,Seller_1,Maharashtra,Kitchen Knife Set,Electronics,COD,4434.35,6,FALSE,,78,64,1,3.2
+ORD_00994,12-06-2024,CUST_183,Reseller_15,Seller_10,Karnataka,Notebook Combo,Kitchen,Prepaid,3512.6,7,FALSE,,24,17,1,4
+ORD_00995,26-05-2024,CUST_331,Reseller_2,Seller_1,Maharashtra,Wall Sticker,Electronics,COD,4893.25,5,FALSE,,11,0,0,3.4
+ORD_00996,08-02-2024,CUST_293,Reseller_3,Seller_8,Karnataka,Choker Necklace,Fashion,Prepaid,940.57,5,FALSE,,12,12,1,2.7
+ORD_00997,19-02-2024,CUST_335,Reseller_19,Seller_3,Karnataka,Electric Tandoor,Kitchen,Prepaid,598.5,5,FALSE,,95,79,1,4.8
+ORD_00998,30-01-2024,CUST_256,Reseller_1,Seller_4,Uttar Pradesh,Wall Clock,Kitchen,COD,2429.97,5,FALSE,,12,0,0,2.8
+ORD_00999,29-04-2024,CUST_492,Reseller_5,Seller_1,Maharashtra,Nail Paint Kit,Electronics,COD,913.41,12,FALSE,,59,46,1,4.9
+ORD_01000,11-01-2024,CUST_54,Reseller_4,Seller_1,Uttar Pradesh,Face Roller,Home Decor,Prepaid,3416.17,3,TRUE,Late Delivery,17,12,1,3.6
