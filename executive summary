@@ -1,0 +1,58 @@
+📌 Objective:
+This Power BI dashboard is designed to provide a comprehensive overview of Meesho’s sales performance using mock data. The dashboard serves as a strategic analytical tool for stakeholders to monitor revenue, identify top-performing products, understand customer behavior, and assess operational efficiency.
+
+📈 Key Business Insights:
+Revenue Overview:
+
+The company has generated a total revenue of ₹2.59 Million across 909 orders, with an average order value of ₹2.59K.
+
+Category Performance:
+
+The highest revenue comes from Home Décor, followed by Electronics, Fashion, Beauty, and Kitchen.
+
+Each category shows consistent revenue performance, indicating a well-diversified product portfolio.
+
+Top-Selling Products:
+
+The Mobile Stand leads in sales with 93K in revenue, followed by Choker Necklace and Raincoat (76K each).
+
+These products could be leveraged in marketing campaigns or inventory planning.
+
+Customer Experience:
+
+The average delivery time is 7.05 days, which may be considered slightly high and needs improvement.
+
+Average customer rating stands at 3.73, suggesting moderate satisfaction.
+
+Return Trends:
+
+Most common reason for return is Damaged Products (34.43%), followed by Size Issues (35.25%) and Late Delivery (30.33%).
+
+This indicates the need for better quality checks and improved delivery logistics.
+
+High Return Products:
+
+Mobile Stand, Handbag, and Washing Brush top the return list, highlighting the need to evaluate their quality or description accuracy.
+
+Payment Preferences:
+
+59% of transactions are Prepaid, while 41% are Cash on Delivery (COD).
+
+The dominance of prepaid orders reflects increasing consumer trust in online transactions.
+
+Sales Trends:
+
+Highest sales occurred in March (73K) and lowest in June (44K), showing a declining trend in recent months.
+
+This could be due to seasonal fluctuations or lack of promotional activity.
+
+🔍 Business Recommendations:
+Reduce Return Rates by improving product quality and logistics.
+
+Shorten Delivery Time by optimizing supply chain partnerships.
+
+Boost Underperforming Categories with targeted promotions.
+
+Monitor Customer Feedback to improve product descriptions and seller accountability.
+
+Capitalize on High-Demand Months with seasonal campaigns.
